@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marvinscham&theme=default)
+<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marvinscham&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marvinscham&theme=github)
+<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marvinscham&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marvinscham&theme=github&utcOffset=8)
 
 <!--
 **marvinscham/marvinscham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
