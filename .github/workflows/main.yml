@@ -5,7 +5,6 @@ on:
   schedule: [{cron: "0 4 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -44,7 +43,9 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
-          plugin_wakatime_days: 7
+          plugin_wakatime_days: 365
           plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors
+          plugin_wakatime_user: .user.login
+          plugin_wakatime_url: http://waka.xn--schmkerei-37a.de
           
           
