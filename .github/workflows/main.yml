@@ -45,7 +45,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
           plugin_wakatime_days: 365
           plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_user: marvinscham
           plugin_wakatime_url: http://waka.xn--schmkerei-37a.de
           
           
