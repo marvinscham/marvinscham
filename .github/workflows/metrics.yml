@@ -18,6 +18,7 @@ jobs:
           filename: left-panel.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
+          config_order: base.header, base.repositories, base.activity+community, languages, followup
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           template: classic
@@ -42,6 +43,7 @@ jobs:
           filename: right-panel.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_order: wakatime, isocalendar, activity
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           template: classic
