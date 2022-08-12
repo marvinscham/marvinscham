@@ -2,8 +2,8 @@
   
 <h1>Hi there 👋</h1>
 
-<img width="390" align="left" src="https://gist.githubusercontent.com/marvinscham/2c47caf3cc853cc0977cbfb6f54c602d/raw/963039ee09d05788df07427aef1a456356556237/left-panel.svg">
-<img width="390" align="right" src="https://gist.githubusercontent.com/marvinscham/2c47caf3cc853cc0977cbfb6f54c602d/raw/963039ee09d05788df07427aef1a456356556237/right-panel.svg">
+<img width="390" align="left" src="https://gist.githubusercontent.com/marvinscham/2c47caf3cc853cc0977cbfb6f54c602d/raw/left-panel.svg">
+<img width="390" align="right" src="https://gist.githubusercontent.com/marvinscham/2c47caf3cc853cc0977cbfb6f54c602d/raw/right-panel.svg">
 
 </div>
 
