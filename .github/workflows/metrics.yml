@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           output_action: gist
-          committer_gist: ${{ secrets.GISTS_TOKEN }}
+          committer_gist: ${{ secrets.GIST }}
           template: classic
           config_timezone: Europe/Berlin
           plugin_followup: yes
@@ -43,7 +43,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
-          committer_gist: ${{ secrets.GISTS_TOKEN }}
+          committer_gist: ${{ secrets.GIST }}
           template: classic
           config_timezone: Europe/Berlin
           plugin_activity: yes
