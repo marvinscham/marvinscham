@@ -59,7 +59,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
-          plugin_wakatime_days: 30
+          plugin_wakatime_days: "30"
           plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors
           plugin_wakatime_user: marvinscham
           plugin_wakatime_url: https://waka.xn--schmkerei-37a.de
