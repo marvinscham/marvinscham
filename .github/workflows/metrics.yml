@@ -62,6 +62,6 @@ jobs:
           plugin_wakatime_days: "30"
           plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors
           plugin_wakatime_user: marvinscham
-          plugin_wakatime_url: https://waka.xn--schmkerei-37a.de
+          plugin_wakatime_url: https://waka.scham.net
           
           
