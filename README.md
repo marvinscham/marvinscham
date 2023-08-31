@@ -3,7 +3,7 @@
 <h1>Hi there 👋</h1>
 <p>
 I'm Marvin.<br>
-CSS enjoyer, Pianist, creator of <a href="https://masterychart.com">Mastery Chart</a>.
+CSS enjoyer, pianist, creator of <a href="https://masterychart.com">Mastery Chart</a>.
 </p>
 
 <img width="390" align="left" src="https://gist.githubusercontent.com/marvinscham/2c47caf3cc853cc0977cbfb6f54c602d/raw/left-panel.svg">
