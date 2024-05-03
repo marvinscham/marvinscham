@@ -1,67 +1,44 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Update README
 on:
-  schedule: [{cron: "0 4 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: [{ cron: '0 4,16 * * *' }]
   workflow_dispatch:
 jobs:
-  metrics:
+  update_readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-    
-      - name: Left Panel
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          filename: left-panel.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          config_order: base.header, base.repositories, base.activity+community, languages, followup
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          template: classic
-          config_timezone: Europe/Berlin
-          plugin_followup: yes
-          plugin_followup_sections: user, repositories
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming, data, prose
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          
-      - name: Right Panel
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create .env file
+        run: |
+          echo "GHOST_URL=${{ secrets.GHOST_URL }}" > .env
+          echo "GHOST_KEY=${{ secrets.GHOST_KEY }}" > .env
+          echo "WAKAPI_URL=${{ secrets.WAKAPI_URL }}" > .env
+          echo "WAKAPI_KEY=${{ secrets.WAKAPI_KEY }}" > .env
+          echo "DUOLINGO_URL=${{ secrets.DUOLINGO_URL }}" > .env
+
+      - name: Run README updater
+        run: python readme_updater.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Auto-update README [skip ci]"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          filename: right-panel.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          config_order: wakatime, isocalendar, activity
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          template: classic
-          config_timezone: Europe/Berlin
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_activity_skipped: marvinscham/marvinscham
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
-          plugin_wakatime_days: "30"
-          plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors
-          plugin_wakatime_user: marvinscham
-          plugin_wakatime_url: https://wakapi.ms-ds.org
-          
-          
+          github_token: ${{ secrets.GITHUB_TOKEN }}

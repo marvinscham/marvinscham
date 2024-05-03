@@ -1,0 +1,8 @@
+[
+  { "name": "Disenchanter", "repository": "marvinscham/disenchanter" },
+  {
+    "name": "Duolingo API Dockerized",
+    "repository": "marvinscham/duolingo-api-dockerized"
+  },
+  { "name": "BibTeX OSS", "repository": "marvinscham/bibtex-oss" }
+]

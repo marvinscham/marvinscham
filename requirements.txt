@@ -1,0 +1,5 @@
+jinja2
+matplotlib
+requests
+python-dotenv
+pytz

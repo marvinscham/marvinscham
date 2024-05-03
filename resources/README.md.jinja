@@ -1,0 +1,60 @@
+<div align="center">
+  
+<h1>Welcome! <img height="28px" src="./resources/wave.gif"></h1>
+<p>
+I'm Marvin – M.Sc. student, fullstack developer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>
+Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinscham.de/assets/img/lang/de.png">.
+</p>
+
+</div>
+
+[//]: # "Derived from https://github.com/thmsgbrt/thmsgbrt"
+
+## 🛠 Tools I use
+
+{% for item in technologies -%}
+![{{ item['name'] }}](https://img.shields.io/badge/-{{ item["name"] | replace(" ", "_") }}-{{ item['color'] | replace("#", "") }}?style=flat-square&logo={{ item['logo'] or item['name'] | replace(" ", "_") }}&logoColor=white)
+{% endfor -%}
+
+## 🎁 Open source
+
+<table>
+  <tbody>
+{%- for project in projects -%}
+    <tr>
+      <td><a href="https://github.com/{{ project['repository'] }}"><b>{{ project['name'] }}</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/{{ project['repository'] }}?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/{{ project['repository'] }}?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ project['repository'] }}?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+{%- endfor -%}
+  </tbody>
+</table>
+
+## 📊 30-day breakdown
+
+{{ waka_projects }}
+
+{{ waka_langs }}
+
+## 📓 Latest blog posts
+
+{% for entry in blog_entries %}
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) {{ entry['title'] }}]({{ entry['url'] }})
+{% endfor %}
+
+## 🦉 Duolingo progress
+
+- 🔥 Streak: {{ "%d"|format(duolingo_stats["streak"]|float) }}
+- ⚡ {{ "%d"|format(duolingo_stats["xp"]|float) }} XP
+- 👨‍🎓 Currently learning: <img height="16px" src="https://marvinscham.de/assets/img/lang/{{ duolingo_stats['learning_language'] }}.png"/> {{ duolingo_stats['current_lang'] }}
+
+## More
+
+{% for social in socials -%}
+<a href="{{ social['url'] }}" target="_blank"><img alt="{{ social['name'] }}" src="https://img.shields.io/badge/{{ social['name'] }}-%23{{ social['color']|replace("#","") }}.svg?&style=for-the-badge&logo={{ social['logo'] }}&logoColor=white" /></a>
+{% endfor %}
+
+------------
+
+<p align="center">Last update: {{ last_update }}</p>
