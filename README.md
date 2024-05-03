@@ -61,12 +61,30 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
 
 ## 📊 30-day breakdown
 
+```
+wiha-tool      17:48   ██████████████████----------------------   45%
+masterychart   11:56   ████████████----------------------------   30%
+marvinscham     5:36   █████-----------------------------------   14%
+disenchanter    2:05   ██--------------------------------------    5%
+bibtex-oss      1:05   █---------------------------------------    2%
+```
 
-
-
+```
+JavaScript      8:47   █████████-------------------------------   22%
+Python          7:54   ████████--------------------------------   20%
+PHP             5:44   █████-----------------------------------   14%
+YAML            4:00   ████------------------------------------   10%
+HTML            3:53   ███-------------------------------------    9%
+```
 
 ## 📓 Latest blog posts
 
+
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) Splitting MIDI Controller Input](https://blog.marvinscham.de/splitting-midi/)
+
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) (DE) DKIM mit Strato SMTP und Cloudflare DNS](https://blog.marvinscham.de/dkim-strato-cloudflare/)
+
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) About Mastery Chart](https://blog.marvinscham.de/about-mastery-chart/)
 
 
 ## 🦉 Duolingo progress
@@ -85,4 +103,4 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
 
 ------------
 
-<p align="center">Last update: Friday,  3 May 07:04 CEST</p>
+<p align="center">Last update: Friday,  3 May 07:28 CEST</p>
