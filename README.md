@@ -8,7 +8,7 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
 
 </div>
 
-[//]: # "Derived from https://github.com/thmsgbrt/thmsgbrt"
+[//]: # 'Derived from https://github.com/thmsgbrt/thmsgbrt'
 
 ## 🛠 Tools I use
 
@@ -38,6 +38,7 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Ghost](https://img.shields.io/badge/-Ghost-15171A?style=flat-square&logo=ghost&logoColor=white)
+
 ## 🎁 Open source
 
 <table>
@@ -79,13 +80,17 @@ HTML            3:53   ███-------------------------------------    9%
 
 ## 📓 Latest blog posts
 
-
 - [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) Splitting MIDI Controller Input](https://blog.marvinscham.de/splitting-midi/)
 
 - [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) (DE) DKIM mit Strato SMTP und Cloudflare DNS](https://blog.marvinscham.de/dkim-strato-cloudflare/)
 
 - [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) About Mastery Chart](https://blog.marvinscham.de/about-mastery-chart/)
 
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) Splitting MIDI Controller Input](https://blog.marvinscham.de/splitting-midi/)
+
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) (DE) DKIM mit Strato SMTP und Cloudflare DNS](https://blog.marvinscham.de/dkim-strato-cloudflare/)
+
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) About Mastery Chart](https://blog.marvinscham.de/about-mastery-chart/)
 
 ## 🦉 Duolingo progress
 
@@ -100,7 +105,6 @@ HTML            3:53   ███-------------------------------------    9%
 <a href="https://www.linkedin.com/in/marvin-scham-58576216b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://duolingo.com/profile/marvinscham" target="_blank"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%2358CC02.svg?&style=for-the-badge&logo=duolingo&logoColor=white" /></a>
 
-
-------------
+---
 
 <p align="center">Last update: Friday,  3 May 07:28 CEST</p>
