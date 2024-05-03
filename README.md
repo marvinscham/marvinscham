@@ -61,12 +61,30 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
 
 ## 📊 30-day breakdown
 
+```
+wiha-tool      17:48:31   █████████████░░░░░░░░░░░░░░░░░   46 %
+masterychart   11:56:10   █████████░░░░░░░░░░░░░░░░░░░░░   30 %
+marvinscham     5:19:09   ████░░░░░░░░░░░░░░░░░░░░░░░░░░   13 %
+disenchanter    2:05:48   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5 %
+bibtex-oss      1:05:34   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2 %
+```
 
-
-
+```
+JavaScript      8:47:04   ██████░░░░░░░░░░░░░░░░░░░░░░░░   22 %
+Python          7:45:51   ██████░░░░░░░░░░░░░░░░░░░░░░░░   20 %
+PHP             5:44:46   ████░░░░░░░░░░░░░░░░░░░░░░░░░░   14 %
+YAML            3:58:10   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10 %
+HTML            3:53:25   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10 %
+```
 
 ## 📓 Latest blog posts
 
+
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) Splitting MIDI Controller Input](https://blog.marvinscham.de/splitting-midi/)
+
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) (DE) DKIM mit Strato SMTP und Cloudflare DNS](https://blog.marvinscham.de/dkim-strato-cloudflare/)
+
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) About Mastery Chart](https://blog.marvinscham.de/about-mastery-chart/)
 
 
 ## 🦉 Duolingo progress
@@ -85,4 +103,4 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
 
 ------------
 
-<p align="center">Last update: Friday,  3 May 07:04 CEST</p>
+<p align="center">Last update: Friday,  3 May 07:08 CEST</p>
