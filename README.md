@@ -62,35 +62,35 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
 ## 📊 30-day breakdown
 
 ```
-wiha-tool      15:50   █████████████████-----------------------   42%
-masterychart   11:56   ████████████----------------------------   32%
-marvinscham     5:39   ██████----------------------------------   15%
-disenchanter    2:05   ██--------------------------------------    5%
+wiha-tool      15:50   █████████████████-----------------------   43%
+masterychart   11:58   █████████████---------------------------   32%
+marvinscham     5:43   ██████----------------------------------   15%
+disenchanter    1:39   █---------------------------------------    4%
 bibtex-oss      1:05   █---------------------------------------    2%
 ```
 
 ```
-JavaScript      8:20   █████████-------------------------------   22%
-Python          6:51   ███████---------------------------------   18%
+JavaScript      8:23   █████████-------------------------------   22%
+Python          6:52   ███████---------------------------------   18%
 PHP             5:44   ██████----------------------------------   15%
-YAML            4:00   ████------------------------------------   10%
+YAML            3:50   ████------------------------------------   10%
 HTML            3:38   ███-------------------------------------    9%
 ```
 
 ## 📓 Latest blog posts
 
 
+- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) CSS: Color Filtering SVG](https://blog.marvinscham.de/css-color-filtering-svg/)
+
 - [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) Splitting MIDI Controller Input](https://blog.marvinscham.de/splitting-midi/)
 
 - [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) (DE) DKIM mit Strato SMTP und Cloudflare DNS](https://blog.marvinscham.de/dkim-strato-cloudflare/)
 
-- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) About Mastery Chart](https://blog.marvinscham.de/about-mastery-chart/)
-
 
 ## 🦉 Duolingo progress
 
-- 🔥 Streak: 909
-- ⚡ 75964 XP
+- 🔥 Streak: 910
+- ⚡ 76050 XP
 - 👨‍🎓 Currently learning: <img height="16px" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto
 
 ## More
@@ -103,4 +103,4 @@ HTML            3:38   ███-------------------------------------    9%
 
 ------------
 
-<p align="center">Last update: Friday,  3 May 18:21 CEST</p>
+<p align="center">Last update: Saturday,  4 May 06:20 CEST</p>
