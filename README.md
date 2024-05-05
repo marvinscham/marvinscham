@@ -64,7 +64,7 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
 ```
 wiha-tool      15:50   █████████████████-----------------------   42%
 masterychart   11:58   ████████████----------------------------   32%
-marvinscham     6:13   ██████----------------------------------   16%
+marvinscham     6:15   ██████----------------------------------   16%
 disenchanter    1:39   █---------------------------------------    4%
 bibtex-oss      1:05   █---------------------------------------    2%
 ```
@@ -89,8 +89,8 @@ HTML            3:38   ███-------------------------------------    9%
 
 ## 🦉 Duolingo progress
 
-- 🔥 Streak: 910
-- ⚡ 76050 XP
+- 🔥 Streak: 911
+- ⚡ 76080 XP
 - 👨‍🎓 Currently learning: <img height="16px" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto
 
 ## More
@@ -103,4 +103,4 @@ HTML            3:38   ███-------------------------------------    9%
 
 ------------
 
-<p align="center">Last update: Saturday,  4 May 18:19 CEST</p>
+<p align="center">Last update: Sunday,  5 May 06:20 CEST</p>
