@@ -40,34 +40,37 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/marvinscham/disenchanter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/marvinscham/disenchanter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marvinscham/disenchanter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/marvinscham/disenchanter?style=flat-square&labelColor=343b41"/></td>
     </tr><tr>
       <td><a href="https://github.com/marvinscham/duolingo-api-dockerized"><b>Duolingo API Dockerized</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/marvinscham/duolingo-api-dockerized?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/marvinscham/duolingo-api-dockerized?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marvinscham/duolingo-api-dockerized?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/marvinscham/duolingo-api-dockerized?style=flat-square&labelColor=343b41"/></td>
     </tr><tr>
       <td><a href="https://github.com/marvinscham/bibtex-oss"><b>BibTeX OSS</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/marvinscham/bibtex-oss?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/marvinscham/bibtex-oss?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marvinscham/bibtex-oss?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/marvinscham/bibtex-oss?style=flat-square&labelColor=343b41"/></td>
     </tr></tbody>
 </table>
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool      15:52   ████████████████------------------------   41%
-masterychart   11:58   ████████████----------------------------   31%
-marvinscham     7:09   ███████---------------------------------   18%
+wiha-tool      15:54   ████████████████------------------------   41%
+masterychart   12:14   ████████████----------------------------   31%
+marvinscham     7:12   ███████---------------------------------   18%
 disenchanter    1:39   █---------------------------------------    4%
 </pre>
 
 <pre>
-JavaScript      8:23   ████████--------------------------------   21%
-Python          7:14   ███████---------------------------------   18%
-PHP             5:44   ██████----------------------------------   15%
-YAML            3:52   ████------------------------------------   10%
+JavaScript      8:24   ████████--------------------------------   21%
+Python          7:16   ███████---------------------------------   18%
+PHP             5:48   ██████----------------------------------   15%
+YAML            4:00   ████------------------------------------   10%
 HTML            3:38   ███-------------------------------------    9%
-Markdown        2:34   ██--------------------------------------    6%
+Markdown        2:47   ██--------------------------------------    7%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -96,5 +99,5 @@ Markdown        2:34   ██--------------------------------------    6%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday,  6 May 06:20 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday,  6 May 18:22 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
