@@ -1,44 +1,40 @@
-<div align="center">
-  
-<h1>Welcome! <img height="28px" src="./resources/wave.gif"></h1>
-<p>
-I'm Marvin – M.Sc. student, fullstack developer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>
-Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinscham.de/assets/img/lang/de.png">.
-</p>
-
+<div align="center" style="text-align:center;">
+<h1>Welcome! <img height="28" style="height:1em;" src="./resources/wave.gif"></h1>
+<p>I'm Marvin – M.Sc. student, fullstack developer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>Located in Baden-Württemberg, Germany <img height="16" style="height:1em;" src="https://marvinscham.de/assets/img/lang/de.png">.</p>
 </div>
 
-[//]: # "Derived from https://github.com/thmsgbrt/thmsgbrt"
 
-## 🛠 Tools I use
+<h2>🛠 Tools I use</h2>
+<p>
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img alt="Plausible" src="https://img.shields.io/badge/-Plausible-5850EC?style=flat-square&logo=plausibleanalytics&logoColor=white" />
+<img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+<img alt="Riot API" src="https://img.shields.io/badge/-Riot_API-EB0029?style=flat-square&logo=riotgames&logoColor=white" />
+<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="GitLab CI" src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img alt="Weblate" src="https://img.shields.io/badge/-Weblate-2ECCAA?style=flat-square&logo=weblate&logoColor=white" />
+<img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2496ED?style=flat-square&logo=githubactions&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white" />
+<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img alt="Ghost" src="https://img.shields.io/badge/-Ghost-15171A?style=flat-square&logo=ghost&logoColor=white" />
+</p>
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Plausible](https://img.shields.io/badge/-Plausible-5850EC?style=flat-square&logo=plausibleanalytics&logoColor=white)
-![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Riot API](https://img.shields.io/badge/-Riot_API-EB0029?style=flat-square&logo=riotgames&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![Weblate](https://img.shields.io/badge/-Weblate-2ECCAA?style=flat-square&logo=weblate&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2496ED?style=flat-square&logo=githubactions&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Ghost](https://img.shields.io/badge/-Ghost-15171A?style=flat-square&logo=ghost&logoColor=white)
-## 🎁 Open source
+<h2>🎁 Open source</h2>
 
 <table>
   <tbody><tr>
@@ -58,49 +54,49 @@ Located in Baden-Württemberg, Germany <img height="16px" src="https://marvinsch
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marvinscham/bibtex-oss?style=flat-square&labelColor=343b41"/></td>
     </tr></tbody>
 </table>
+<h2>📊 30-day breakdown</h2>
 
-## 📊 30-day breakdown
-
-```
-wiha-tool      15:50   ████████████████------------------------   42%
-masterychart   11:58   ████████████----------------------------   32%
-marvinscham     6:21   ██████----------------------------------   17%
+<pre>
+wiha-tool      15:52   ████████████████------------------------   41%
+masterychart   11:58   ████████████----------------------------   31%
+marvinscham     6:55   ███████---------------------------------   18%
 disenchanter    1:39   █---------------------------------------    4%
-bibtex-oss      1:05   █---------------------------------------    2%
-```
+</pre>
 
-```
+<pre>
 JavaScript      8:23   ████████--------------------------------   22%
-Python          7:04   ███████---------------------------------   18%
+Python          7:11   ███████---------------------------------   19%
 PHP             5:44   ██████----------------------------------   15%
-YAML            3:50   ████------------------------------------   10%
+YAML            3:52   ████------------------------------------   10%
 HTML            3:38   ███-------------------------------------    9%
-```
+Markdown        2:20   ██--------------------------------------    6%
+</pre>
 
-## 📓 Latest blog posts
+<h2>📓 Latest blog posts</h2>
+<ul>
+<li><a href="https://blog.marvinscham.de/css-color-filtering-svg/">CSS: Color Filtering SVG</a></li>
+<li><a href="https://blog.marvinscham.de/splitting-midi/">Splitting MIDI Controller Input</a></li>
+<li><a href="https://blog.marvinscham.de/dkim-strato-cloudflare/">(DE) DKIM mit Strato SMTP und Cloudflare DNS</a></li>
+</ul>
+
+<h2>🦉 Duolingo progress</h2>
+<ul>
+  <li>🔥 Streak: 912</li>
+  <li>⚡ 76148 XP</li>
+  <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
+</ul>
 
 
-- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) CSS: Color Filtering SVG](https://blog.marvinscham.de/css-color-filtering-svg/)
+<h2>👥 Social</h2>
 
-- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) Splitting MIDI Controller Input](https://blog.marvinscham.de/splitting-midi/)
-
-- [![](https://gitlab.ms-ds.org/msds/icons/-/raw/main/icons-small/ghost.png) (DE) DKIM mit Strato SMTP und Cloudflare DNS](https://blog.marvinscham.de/dkim-strato-cloudflare/)
-
-
-## 🦉 Duolingo progress
-
-- 🔥 Streak: 911
-- ⚡ 76080 XP
-- 👨‍🎓 Currently learning: <img height="16px" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto
-
-## More
-
-<a href="https://marvinscham.de" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-%230d254c.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<p align="center" style="text-align:center;"><a href="https://marvinscham.de" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-%230d254c.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.vom/marvinscham" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/marvin-scham-58576216b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://duolingo.com/profile/marvinscham" target="_blank"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%2358CC02.svg?&style=for-the-badge&logo=duolingo&logoColor=white" /></a>
 
+</p>
 
-------------
+<hr>
 
-<p align="center">Last update: Sunday,  5 May 18:20 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday,  6 May 02:08 CEST</p>
+<p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README"></a> <img alt="made with ♥" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
