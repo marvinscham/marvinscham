@@ -1,11 +1,11 @@
-<h1 align="center" style="text-align:center;">Welcome! <img height="28" style="height:1em;" src="https://raw.githubusercontent.com/marvinscham/marvinscham/main/resources/wave.gif"></h1>
-<p align="center" style="text-align:center;">I'm Marvin – M.Sc. student, fullstack developer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>Located in Baden-Württemberg, Germany <img height="16" style="height:1em;" src="https://marvinscham.de/assets/img/lang/de.png">.</p>
+<h1 align="center" style="text-align:center;">Welcome! <img height="28" style="height:1em;display:inline-block;" src="https://raw.githubusercontent.com/marvinscham/marvinscham/main/resources/wave.gif"></h1>
+<p align="center" style="text-align:center;">I'm Marvin – M.Sc. student, fullstack developer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>Located in Baden-Württemberg, Germany <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/de.png">.</p>
 {# Derived from https://github.com/thmsgbrt/thmsgbrt #}
 
 <h2>🛠 Tools I use</h2>
 <p>
 {% for item in technologies -%}
-<img alt="{{ item['name'] }}" src="https://img.shields.io/badge/-{{ item["name"] | replace(" ", "_") }}-{{ item['color'] | replace("#", "") }}?style=flat-square&logo={{ item['logo'] or item['name'] | replace(" ", "_") }}&logoColor=white" />
+<img alt="{{ item['name'] }}" style="display:inline-block;" src="https://img.shields.io/badge/-{{ item["name"] | replace(" ", "_") }}-{{ item['color'] | replace("#", "") }}?style=flat-square&logo={{ item['logo'] or item['name'] | replace(" ", "_") }}&logoColor=white" />
 {% endfor -%}
 </p>
 
@@ -44,7 +44,7 @@
 <ul>
   <li>🔥 Streak: {{ "%d"|format(duolingo_stats["streak"]|float) }}</li>
   <li>⚡ {{ "%d"|format(duolingo_stats["xp"]|float) }} XP</li>
-  <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;" src="https://marvinscham.de/assets/img/lang/{{ duolingo_stats['learning_language'] }}.png"/> {{ duolingo_stats['current_lang'] }}</li>
+  <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/{{ duolingo_stats['learning_language'] }}.png"/> {{ duolingo_stats['current_lang'] }}</li>
 </ul>
 {% endif %}
 
@@ -52,16 +52,11 @@
 
 <p align="center" style="text-align:center;">
 {%- for social in socials -%}
-<a href="{{ social['url'] }}" target="_blank"><img alt="{{ social['name'] }}" src="https://img.shields.io/badge/{{ social['name'] }}-%23{{ social['color']|replace("#","") }}.svg?&style=for-the-badge&logo={{ social['logo'] }}&logoColor=white" /></a>
+<a href="{{ social['url'] }}" style="display:inline-block;" target="_blank"><img alt="{{ social['name'] }}" src="https://img.shields.io/badge/{{ social['name'] }}-%23{{ social['color']|replace("#","") }}.svg?&style=for-the-badge&logo={{ social['logo'] }}&logoColor=white" /></a>
 {% endfor %}
 </p>
 
 <hr>
 
 <p align="center" style="text-align:center;">Last update: {{ last_update }}</p>
-<p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README"></a> <img alt="made with ♥" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
-<style>
-img {
-  display: inline-block;
-}
-</style>
+<p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
