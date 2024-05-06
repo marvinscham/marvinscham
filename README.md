@@ -1,7 +1,5 @@
-<div align="center" style="text-align:center;">
-<h1>Welcome! <img height="28" style="height:1em;" src="./resources/wave.gif"></h1>
-<p>I'm Marvin – M.Sc. student, fullstack developer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>Located in Baden-Württemberg, Germany <img height="16" style="height:1em;" src="https://marvinscham.de/assets/img/lang/de.png">.</p>
-</div>
+<h1 align="center" style="text-align:center;">Welcome! <img height="28" style="height:1em;" src="https://raw.githubusercontent.com/marvinscham/marvinscham/main/resources/wave.gif"></h1>
+<p align="center" style="text-align:center;">I'm Marvin – M.Sc. student, fullstack developer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>Located in Baden-Württemberg, Germany <img height="16" style="height:1em;" src="https://marvinscham.de/assets/img/lang/de.png">.</p>
 
 
 <h2>🛠 Tools I use</h2>
@@ -59,13 +57,13 @@
 <pre>
 wiha-tool      15:52   ████████████████------------------------   41%
 masterychart   11:58   ████████████----------------------------   31%
-marvinscham     6:55   ███████---------------------------------   18%
+marvinscham     7:03   ███████---------------------------------   18%
 disenchanter    1:39   █---------------------------------------    4%
 </pre>
 
 <pre>
 JavaScript      8:23   ████████--------------------------------   22%
-Python          7:11   ███████---------------------------------   19%
+Python          7:13   ███████---------------------------------   19%
 PHP             5:44   ██████----------------------------------   15%
 YAML            3:52   ████------------------------------------   10%
 HTML            3:38   ███-------------------------------------    9%
@@ -98,5 +96,10 @@ Markdown        2:20   ██--------------------------------------    6%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday,  6 May 02:08 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday,  6 May 02:18 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README"></a> <img alt="made with ♥" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
+<style>
+img {
+  display: inline-block;
+}
+</style>
