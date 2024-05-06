@@ -62,12 +62,12 @@ disenchanter    1:39   █---------------------------------------    4%
 </pre>
 
 <pre>
-JavaScript      8:23   ████████--------------------------------   22%
-Python          7:14   ███████---------------------------------   19%
+JavaScript      8:23   ████████--------------------------------   21%
+Python          7:14   ███████---------------------------------   18%
 PHP             5:44   ██████----------------------------------   15%
 YAML            3:52   ████------------------------------------   10%
 HTML            3:38   ███-------------------------------------    9%
-Markdown        2:24   ██--------------------------------------    6%
+Markdown        2:34   ██--------------------------------------    6%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -96,5 +96,5 @@ Markdown        2:24   ██--------------------------------------    6%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday,  6 May 02:30 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday,  6 May 06:20 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
