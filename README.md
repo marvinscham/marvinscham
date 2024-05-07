@@ -59,7 +59,7 @@
 
 <pre>
 wiha-tool      15:54   ███████████████-------------------------   39%
-masterychart   14:08   █████████████---------------------------   34%
+masterychart   14:10   █████████████---------------------------   34%
 marvinscham     7:12   ███████---------------------------------   17%
 disenchanter    1:39   █---------------------------------------    4%
 </pre>
@@ -70,7 +70,7 @@ Python          7:16   ███████---------------------------------   
 PHP             6:43   ██████----------------------------------   16%
 YAML            4:00   ███-------------------------------------    9%
 HTML            3:38   ███-------------------------------------    8%
-Markdown        2:48   ██--------------------------------------    6%
+Markdown        2:50   ██--------------------------------------    6%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ Markdown        2:48   ██--------------------------------------    6%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday,  7 May 06:20 CEST</p>
+<p align="center" style="text-align:center;">Last update: Tuesday,  7 May 18:19 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
