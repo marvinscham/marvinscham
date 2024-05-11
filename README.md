@@ -58,7 +58,7 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool      14:59   ███████████████-------------------------   37%
+wiha-tool      15:00   ███████████████-------------------------   37%
 masterychart   14:05   ██████████████--------------------------   35%
 marvinscham     7:12   ███████---------------------------------   18%
 disenchanter    1:39   █---------------------------------------    4%
@@ -82,8 +82,8 @@ HTML            3:18   ███-------------------------------------    8%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 916</li>
-  <li>⚡ 76387 XP</li>
+  <li>🔥 Streak: 917</li>
+  <li>⚡ 76447 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ HTML            3:18   ███-------------------------------------    8%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Friday, 10 May 18:21 CEST</p>
+<p align="center" style="text-align:center;">Last update: Saturday, 11 May 06:19 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
