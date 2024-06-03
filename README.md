@@ -58,18 +58,18 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart     16:15   ██████████████--------------------------   37%
-wiha-tool        14:30   █████████████---------------------------   33%
+masterychart     16:31   ███████████████-------------------------   37%
+wiha-tool        14:30   █████████████---------------------------   32%
 disenchanter      5:37   █████-----------------------------------   12%
 docker-archive    2:24   ██--------------------------------------    5%
 </pre>
 
 <pre>
-PHP              11:47   ██████████------------------------------   26%
+PHP              12:03   ██████████------------------------------   27%
 Python            7:50   ███████---------------------------------   17%
-Markdown          4:53   ████------------------------------------   11%
+Markdown          4:48   ████------------------------------------   10%
 JavaScript        4:01   ███-------------------------------------    9%
-Ruby              3:31   ███-------------------------------------    8%
+Ruby              3:31   ███-------------------------------------    7%
 YAML              2:35   ██--------------------------------------    5%
 </pre>
 
@@ -82,8 +82,8 @@ YAML              2:35   ██--------------------------------------    5%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 933</li>
-  <li>⚡ 77707 XP</li>
+  <li>🔥 Streak: 935</li>
+  <li>⚡ 77796 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ YAML              2:35   ██--------------------------------------    5%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday,  2 June 18:20 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday,  3 June 06:22 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
