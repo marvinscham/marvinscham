@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart     17:48   ████████████████------------------------   40%
-wiha-tool        14:26   █████████████---------------------------   32%
+masterychart     17:29   ████████████████------------------------   40%
+wiha-tool        14:41   █████████████---------------------------   33%
 disenchanter      5:37   █████-----------------------------------   12%
 docker-archive    2:07   █---------------------------------------    4%
 </pre>
 
 <pre>
-PHP              13:07   ████████████----------------------------   30%
-Python            7:24   ██████----------------------------------   16%
-Markdown          4:21   ███-------------------------------------    9%
-JavaScript        4:01   ███-------------------------------------    9%
+PHP              13:04   ████████████----------------------------   30%
+Python            7:38   ███████---------------------------------   17%
+Markdown          4:10   ███-------------------------------------    9%
+JavaScript        4:00   ███-------------------------------------    9%
 Ruby              3:31   ███-------------------------------------    8%
-YAML              2:33   ██--------------------------------------    5%
+HTML              2:26   ██--------------------------------------    5%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ YAML              2:33   ██--------------------------------------    5%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday,  5 June 06:23 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday,  5 June 18:22 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
