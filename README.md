@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart     17:57   █████████████████-----------------------   42%
-wiha-tool        12:46   ████████████----------------------------   30%
-disenchanter      5:37   █████-----------------------------------   13%
-docker-archive    2:06   █---------------------------------------    4%
+masterychart                17:59   █████████████████-----------------------   43%
+wiha-tool                   12:46   ████████████----------------------------   30%
+disenchanter                 5:37   █████-----------------------------------   13%
+masterychart-self-crawler    1:42   █---------------------------------------    4%
 </pre>
 
 <pre>
-PHP              13:17   ████████████----------------------------   31%
-Python            7:24   ███████---------------------------------   17%
-Markdown          4:10   ███-------------------------------------    9%
-Ruby              3:31   ███-------------------------------------    8%
-JavaScript        2:41   ██--------------------------------------    6%
-SCSS              2:20   ██--------------------------------------    5%
+PHP                         13:17   ████████████----------------------------   31%
+Python                       7:24   ███████---------------------------------   17%
+Markdown                     3:39   ███-------------------------------------    8%
+Ruby                         3:31   ███-------------------------------------    8%
+JavaScript                   2:41   ██--------------------------------------    6%
+SCSS                         2:20   ██--------------------------------------    5%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -82,8 +82,8 @@ SCSS              2:20   ██--------------------------------------    5%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 938</li>
-  <li>⚡ 77891 XP</li>
+  <li>🔥 Streak: 939</li>
+  <li>⚡ 77917 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ SCSS              2:20   ██--------------------------------------    5%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Friday,  7 June 18:20 CEST</p>
+<p align="center" style="text-align:center;">Last update: Saturday,  8 June 06:21 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
