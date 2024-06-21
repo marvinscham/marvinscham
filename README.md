@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                16:37   ████████████████------------------------   40%
-docker-archive               9:53   █████████-------------------------------   23%
-wiha-tool                    8:55   ████████--------------------------------   21%
+masterychart                16:37   █████████████████-----------------------   43%
+docker-archive               9:53   ██████████------------------------------   26%
+wiha-tool                    5:30   █████-----------------------------------   14%
 masterychart-self-crawler    2:29   ██--------------------------------------    6%
 </pre>
 
 <pre>
-PHP                         10:59   ██████████------------------------------   26%
-Python                       7:47   ███████---------------------------------   18%
-unknown                      4:12   ████------------------------------------   10%
-HTML                         4:08   ████------------------------------------   10%
-Markdown                     4:07   ████------------------------------------   10%
-YAML                         2:20   ██--------------------------------------    5%
+PHP                         10:59   ███████████-----------------------------   29%
+Python                       6:41   ███████---------------------------------   17%
+unknown                      4:12   ████------------------------------------   11%
+Markdown                     3:42   ███-------------------------------------    9%
+HTML                         3:38   ███-------------------------------------    9%
+YAML                         1:55   ██--------------------------------------    5%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ YAML                         2:20   ██--------------------------------------
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Friday, 21 June 06:20 CEST</p>
+<p align="center" style="text-align:center;">Last update: Friday, 21 June 18:20 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
