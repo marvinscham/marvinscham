@@ -58,7 +58,7 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                11:05   █████████████---------------------------   33%
+masterychart                10:36   ████████████----------------------------   32%
 docker-archive               9:09   ███████████-----------------------------   27%
 wiha-tool                    8:48   ██████████------------------------------   26%
 masterychart-self-crawler    0:47   ----------------------------------------    2%
@@ -70,7 +70,7 @@ JavaScript                   8:06   █████████-----------------
 HTML                         4:13   █████-----------------------------------   12%
 unknown                      4:11   █████-----------------------------------   12%
 Markdown                     2:20   ██--------------------------------------    7%
-PHP                          1:58   ██--------------------------------------    5%
+YAML                         1:39   ██--------------------------------------    5%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -82,8 +82,8 @@ PHP                          1:58   ██--------------------------------------
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 965</li>
-  <li>⚡ 80400 XP</li>
+  <li>🔥 Streak: 966</li>
+  <li>⚡ 80450 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ PHP                          1:58   ██--------------------------------------
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Saturday,  6 July 18:20 CEST</p>
+<p align="center" style="text-align:center;">Last update: Sunday,  7 July 06:19 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
