@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                10:26   ████████████----------------------------   32%
-docker-archive               9:13   ███████████-----------------------------   28%
-wiha-tool                    8:48   ██████████------------------------------   27%
-masterychart-self-crawler    0:47   ----------------------------------------    2%
+masterychart                10:24   █████████████---------------------------   34%
+wiha-tool                    8:48   ███████████-----------------------------   28%
+docker-archive               7:04   █████████-------------------------------   23%
+masterychart-self-crawler    0:47   █---------------------------------------    2%
 </pre>
 
 <pre>
-Python                       8:08   █████████-------------------------------   24%
-JavaScript                   8:06   █████████-------------------------------   24%
-HTML                         4:11   █████-----------------------------------   12%
-unknown                      4:11   █████-----------------------------------   12%
-Markdown                     2:24   ██--------------------------------------    7%
-PHP                          1:36   █---------------------------------------    4%
+JavaScript                   8:06   ██████████------------------------------   26%
+Python                       7:18   █████████-------------------------------   24%
+unknown                      4:06   █████-----------------------------------   13%
+HTML                         3:45   ████------------------------------------   12%
+Markdown                     2:00   ██--------------------------------------    6%
+PHP                          1:33   ██--------------------------------------    5%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ PHP                          1:36   █---------------------------------------  
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday,  8 July 18:22 CEST</p>
+<p align="center" style="text-align:center;">Last update: Tuesday,  9 July 06:20 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
