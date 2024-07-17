@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart   10:04   ██████████████████----------------------   45%
-wiha-tool       9:45   █████████████████-----------------------   44%
+wiha-tool      12:06   ███████████████████---------------------   49%
+masterychart   10:04   ████████████████------------------------   41%
 tagging-demo    0:45   █---------------------------------------    3%
-bibtex-oss      0:27   ----------------------------------------    2%
+bibtex-oss      0:27   ----------------------------------------    1%
 </pre>
 
 <pre>
-JavaScript      6:55   ████████████----------------------------   31%
-Python          6:04   ███████████-----------------------------   27%
-PHP             2:53   █████-----------------------------------   13%
-HTML            1:44   ███-------------------------------------    7%
+Python          7:39   ████████████----------------------------   31%
+JavaScript      7:13   ███████████-----------------------------   29%
+PHP             2:53   ████------------------------------------   11%
+HTML            2:03   ███-------------------------------------    8%
 YAML            1:04   █---------------------------------------    4%
-JSON            0:50   █---------------------------------------    3%
+JSON            0:53   █---------------------------------------    3%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ JSON            0:50   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday, 17 July 06:20 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday, 17 July 18:22 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
