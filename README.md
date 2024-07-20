@@ -58,7 +58,7 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart   11:06   ██████████████████----------------------   47%
+masterychart   11:07   ██████████████████----------------------   47%
 wiha-tool      10:25   █████████████████-----------------------   44%
 tagging-demo    0:28   ----------------------------------------    2%
 bibtex-oss      0:27   ----------------------------------------    1%
@@ -69,7 +69,7 @@ JavaScript      7:13   ████████████---------------------
 Python          6:10   ██████████------------------------------   26%
 PHP             3:44   ██████----------------------------------   15%
 HTML            1:54   ███-------------------------------------    8%
-Markdown        1:01   █---------------------------------------    4%
+Markdown        1:03   █---------------------------------------    4%
 JSON            0:53   █---------------------------------------    3%
 </pre>
 
@@ -82,8 +82,8 @@ JSON            0:53   █---------------------------------------    3%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 976</li>
-  <li>⚡ 81246 XP</li>
+  <li>🔥 Streak: 977</li>
+  <li>⚡ 81292 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ JSON            0:53   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Friday, 19 July 18:22 CEST</p>
+<p align="center" style="text-align:center;">Last update: Saturday, 20 July 06:22 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
