@@ -65,12 +65,12 @@ bibtex-oss      0:27   ----------------------------------------    2%
 </pre>
 
 <pre>
-Python          7:09   ███████████████-------------------------   37%
+Python          7:09   ██████████████--------------------------   37%
 PHP             3:21   ███████---------------------------------   17%
 JavaScript      2:13   ████------------------------------------   11%
 HTML            1:28   ███-------------------------------------    7%
 JSON            1:22   ██--------------------------------------    7%
-Markdown        0:59   ██--------------------------------------    5%
+Markdown        1:01   ██--------------------------------------    5%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ Markdown        0:59   ██--------------------------------------    5%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday, 30 July 06:21 CEST</p>
+<p align="center" style="text-align:center;">Last update: Tuesday, 30 July 18:23 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
