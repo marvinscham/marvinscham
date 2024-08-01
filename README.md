@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool        13:08   ████████████████████████----------------   61%
-masterychart      5:50   ██████████------------------------------   27%
+wiha-tool        13:08   █████████████████████████---------------   63%
+masterychart      5:40   ██████████------------------------------   27%
 parametertable    0:34   █---------------------------------------    2%
 tagging-demo      0:28   ----------------------------------------    2%
 </pre>
 
 <pre>
-Python            9:00   ████████████████------------------------   42%
-PHP               3:32   ██████----------------------------------   16%
-JavaScript        2:16   ████------------------------------------   10%
-JSON              1:34   ██--------------------------------------    7%
-HTML              1:33   ██--------------------------------------    7%
-Markdown          0:56   █---------------------------------------    4%
+Python            9:00   █████████████████-----------------------   43%
+PHP               3:32   ██████----------------------------------   17%
+JavaScript        2:11   ████------------------------------------   10%
+HTML              1:34   ███-------------------------------------    7%
+JSON              1:16   ██--------------------------------------    6%
+YAML              0:50   █---------------------------------------    4%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -82,8 +82,8 @@ Markdown          0:56   █---------------------------------------    4%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 987</li>
-  <li>⚡ 81986 XP</li>
+  <li>🔥 Streak: 988</li>
+  <li>⚡ 81990 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ Markdown          0:56   █---------------------------------------    4%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday, 31 July 18:22 CEST</p>
+<p align="center" style="text-align:center;">Last update: Thursday,  1 August 06:21 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
