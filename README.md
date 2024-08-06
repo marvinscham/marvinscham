@@ -61,15 +61,15 @@
 wiha-tool        10:50   ██████████████████████------------------   55%
 masterychart      4:02   ████████--------------------------------   20%
 ms-homepage       1:20   ██--------------------------------------    6%
-docker-archive    0:43   █---------------------------------------    3%
+docker-archive    0:42   █---------------------------------------    3%
 </pre>
 
 <pre>
 Python            7:42   ███████████████-------------------------   39%
 PHP               3:00   ██████----------------------------------   15%
 YAML              2:18   ████------------------------------------   11%
-Markdown          1:22   ██--------------------------------------    6%
 JSON              1:21   ██--------------------------------------    6%
+Markdown          1:20   ██--------------------------------------    6%
 HTML              1:02   ██--------------------------------------    5%
 </pre>
 
@@ -99,5 +99,5 @@ HTML              1:02   ██--------------------------------------    5%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday,  5 August 18:22 CEST</p>
+<p align="center" style="text-align:center;">Last update: Tuesday,  6 August 06:22 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
