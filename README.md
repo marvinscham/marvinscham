@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool        19:28   ██████████████████████████--------------   66%
-masterychart      4:18   █████-----------------------------------   14%
-docker-archive    1:28   ██--------------------------------------    5%
+wiha-tool        21:58   █████████████████████████████-----------   73%
+masterychart      2:35   ███-------------------------------------    8%
+docker-archive    1:28   █---------------------------------------    4%
 ms-homepage       1:25   █---------------------------------------    4%
 </pre>
 
 <pre>
-Python           12:49   █████████████████-----------------------   43%
-PHP               2:56   ████------------------------------------   10%
-YAML              2:12   ███-------------------------------------    7%
-HTML              1:59   ██--------------------------------------    6%
-Markdown          1:46   ██--------------------------------------    6%
-JavaScript        1:40   ██--------------------------------------    5%
+Python           14:08   ██████████████████----------------------   47%
+HTML              2:42   ███-------------------------------------    9%
+YAML              2:12   ██--------------------------------------    7%
+Markdown          1:54   ██--------------------------------------    6%
+JavaScript        1:50   ██--------------------------------------    6%
+PHP               1:39   ██--------------------------------------    5%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ JavaScript        1:40   ██--------------------------------------    5%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday, 14 August 06:21 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday, 14 August 18:25 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
