@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool        21:47   ████████████████████████████------------   70%
-time-tracking     2:25   ███-------------------------------------    7%
-docker-archive    2:06   ██--------------------------------------    6%
+wiha-tool        20:09   ███████████████████████████-------------   69%
+time-tracking     2:25   ███-------------------------------------    8%
+docker-archive    2:06   ██--------------------------------------    7%
 ms-homepage       1:25   █---------------------------------------    4%
 </pre>
 
 <pre>
-Python           14:22   ██████████████████----------------------   46%
-HTML              5:17   ██████----------------------------------   17%
-YAML              2:04   ██--------------------------------------    6%
+Python           13:06   ██████████████████----------------------   45%
+HTML              5:17   ███████---------------------------------   18%
+YAML              2:04   ██--------------------------------------    7%
 JavaScript        1:56   ██--------------------------------------    6%
-Markdown          1:28   █---------------------------------------    4%
-JSON              1:27   █---------------------------------------    4%
+Markdown          1:28   ██--------------------------------------    5%
+TOML              1:25   █---------------------------------------    4%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ JSON              1:27   █---------------------------------------    4%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Thursday, 22 August 06:21 CEST</p>
+<p align="center" style="text-align:center;">Last update: Thursday, 22 August 18:26 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
