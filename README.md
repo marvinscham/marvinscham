@@ -58,17 +58,17 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool        17:43   █████████████████████████████-----------   73%
-masterychart      2:56   ████------------------------------------   12%
-time-tracking     2:27   ████------------------------------------   10%
+wiha-tool        19:09   █████████████████████████████-----------   74%
+masterychart      2:56   ████------------------------------------   11%
+time-tracking     2:27   ███-------------------------------------    9%
 docker-archive    0:41   █---------------------------------------    2%
 </pre>
 
 <pre>
-Python           11:42   ███████████████████---------------------   48%
-HTML              5:21   ████████--------------------------------   22%
-JavaScript        3:10   █████-----------------------------------   13%
-PHP               2:15   ███-------------------------------------    9%
+Python           13:05   ████████████████████--------------------   50%
+HTML              5:21   ████████--------------------------------   20%
+JavaScript        3:13   █████-----------------------------------   12%
+PHP               2:15   ███-------------------------------------    8%
 Markdown          0:33   ----------------------------------------    2%
 YAML              0:16   ----------------------------------------    1%
 </pre>
@@ -99,5 +99,5 @@ YAML              0:16   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday, 11 September 06:25 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday, 11 September 18:24 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
