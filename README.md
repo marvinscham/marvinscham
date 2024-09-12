@@ -58,14 +58,14 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool        19:09   █████████████████████████████-----------   74%
+wiha-tool        19:06   █████████████████████████████-----------   74%
 masterychart      2:56   ████------------------------------------   11%
 time-tracking     2:27   ███-------------------------------------    9%
 docker-archive    0:41   █---------------------------------------    2%
 </pre>
 
 <pre>
-Python           13:05   ████████████████████--------------------   50%
+Python           13:01   ████████████████████--------------------   50%
 HTML              5:21   ████████--------------------------------   20%
 JavaScript        3:13   █████-----------------------------------   12%
 PHP               2:15   ███-------------------------------------    8%
@@ -82,8 +82,8 @@ YAML              0:16   ----------------------------------------    1%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 1022</li>
-  <li>⚡ 86179 XP</li>
+  <li>🔥 Streak: 1023</li>
+  <li>⚡ 86207 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ YAML              0:16   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday, 11 September 18:24 CEST</p>
+<p align="center" style="text-align:center;">Last update: Thursday, 12 September 06:24 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
