@@ -58,15 +58,15 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool                   14:42   █████████████████████-------------------   54%
-masterychart                11:43   █████████████████-----------------------   43%
-masterychart-self-crawler    0:34   ----------------------------------------    2%
-db-migrations                0:06   ----------------------------------------    0%
+wiha-tool                   14:42   █████████████████████-------------------   53%
+masterychart                11:43   █████████████████-----------------------   42%
+masterychart-self-crawler    0:42   █---------------------------------------    2%
+db-migrations                0:15   ----------------------------------------    0%
 </pre>
 
 <pre>
-Python                      10:49   ███████████████-------------------------   39%
-PHP                          8:43   ████████████----------------------------   32%
+Python                      10:57   ███████████████-------------------------   39%
+PHP                          8:43   ████████████----------------------------   31%
 JavaScript                   2:16   ███-------------------------------------    8%
 SCSS                         2:14   ███-------------------------------------    8%
 HTML                         1:46   ██--------------------------------------    6%
@@ -99,5 +99,5 @@ YAML                         0:29   ----------------------------------------    
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 30 September 06:25 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday, 30 September 18:25 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
