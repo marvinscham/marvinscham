@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                16:32   ██████████████████████------------------   56%
-wiha-tool                   10:44   ██████████████--------------------------   36%
-masterychart-self-crawler    0:44   █---------------------------------------    2%
+masterychart                18:13   ███████████████████████-----------------   59%
+wiha-tool                   10:34   █████████████---------------------------   34%
+masterychart-self-crawler    0:44   ----------------------------------------    2%
 thomis-grill                 0:38   ----------------------------------------    2%
 </pre>
 
 <pre>
-PHP                         10:54   ███████████████-------------------------   37%
-Python                       8:16   ███████████-----------------------------   28%
-SCSS                         3:35   ████------------------------------------   12%
-JavaScript                   3:16   ████------------------------------------   11%
-HTML                         1:03   █---------------------------------------    3%
-YAML                         0:29   ----------------------------------------    1%
+PHP                         12:15   ████████████████------------------------   40%
+Python                       8:13   ██████████------------------------------   26%
+SCSS                         3:43   ████------------------------------------   12%
+JavaScript                   3:16   ████------------------------------------   10%
+HTML                         0:56   █---------------------------------------    3%
+Markdown                     0:37   ----------------------------------------    2%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -82,8 +82,8 @@ YAML                         0:29   ----------------------------------------    
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 1042</li>
-  <li>⚡ 87469 XP</li>
+  <li>🔥 Streak: 1043</li>
+  <li>⚡ 87532 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ YAML                         0:29   ----------------------------------------    
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday,  6 October 18:22 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday,  7 October 06:24 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
