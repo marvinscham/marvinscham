@@ -58,7 +58,7 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                1:00:56   ████████████████████████████------------   70%
+masterychart                1:00:57   ████████████████████████████------------   70%
 wiha-tool                      8:36   █████████-------------------------------   24%
 masterychart-self-crawler      0:44   ----------------------------------------    2%
 thomis-grill                   0:41   ----------------------------------------    1%
@@ -82,8 +82,8 @@ HTML                           1:05   █---------------------------------------
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 1048</li>
-  <li>⚡ 87730 XP</li>
+  <li>🔥 Streak: 1049</li>
+  <li>⚡ 87769 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ HTML                           1:05   █---------------------------------------
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday, 13 October 18:23 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday, 14 October 06:24 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
