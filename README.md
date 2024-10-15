@@ -58,17 +58,17 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                1:02:19   ████████████████████████████------------   71%
-wiha-tool                      8:36   █████████-------------------------------   23%
-masterychart-self-crawler      0:44   ----------------------------------------    2%
+masterychart                1:03:27   ████████████████████████████------------   72%
+wiha-tool                      8:36   █████████-------------------------------   22%
+masterychart-self-crawler      0:44   ----------------------------------------    1%
 thomis-grill                   0:41   ----------------------------------------    1%
 </pre>
 
 <pre>
-PHP                           18:52   ████████████████████--------------------   51%
+PHP                           19:37   ████████████████████--------------------   51%
 Python                         5:45   ██████----------------------------------   15%
+SCSS                           4:21   ████------------------------------------   11%
 JavaScript                     4:00   ████------------------------------------   10%
-SCSS                           3:58   ████------------------------------------   10%
 Markdown                       1:15   █---------------------------------------    3%
 HTML                           1:05   █---------------------------------------    2%
 </pre>
@@ -99,5 +99,5 @@ HTML                           1:05   █---------------------------------------
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday, 15 October 06:24 CEST</p>
+<p align="center" style="text-align:center;">Last update: Tuesday, 15 October 18:25 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
