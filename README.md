@@ -58,18 +58,18 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                1:04:13   ██████████████████████████████----------   75%
-wiha-tool                      7:27   ███████---------------------------------   19%
-masterychart-self-crawler      0:44   ----------------------------------------    1%
+masterychart                1:02:50   █████████████████████████████-----------   74%
+wiha-tool                      7:29   ████████--------------------------------   20%
+masterychart-self-crawler      0:44   ----------------------------------------    2%
 thomis-grill                   0:41   ----------------------------------------    1%
 </pre>
 
 <pre>
-PHP                           20:04   █████████████████████-------------------   53%
-Python                         4:31   ████------------------------------------   12%
-SCSS                           4:29   ████------------------------------------   11%
+PHP                           18:43   ████████████████████--------------------   51%
+Python                         4:31   █████-----------------------------------   12%
+SCSS                           4:29   ████------------------------------------   12%
 JavaScript                     3:57   ████------------------------------------   10%
-Markdown                       1:23   █---------------------------------------    3%
+Markdown                       1:25   █---------------------------------------    3%
 HTML                           1:10   █---------------------------------------    3%
 </pre>
 
@@ -99,5 +99,5 @@ HTML                           1:10   █---------------------------------------
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Friday, 18 October 18:25 CEST</p>
+<p align="center" style="text-align:center;">Last update: Saturday, 19 October 06:23 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
