@@ -58,18 +58,18 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                22:15   ███████████████████████████-------------   67%
+masterychart                21:45   ███████████████████████████-------------   67%
 wiha-tool                    7:38   █████████-------------------------------   23%
-docker-archive               0:59   █---------------------------------------    3%
+docker-archive               1:00   █---------------------------------------    3%
 masterychart-self-crawler    0:44   ----------------------------------------    2%
 </pre>
 
 <pre>
-PHP                         15:55   ███████████████████---------------------   48%
+PHP                         15:29   ███████████████████---------------------   48%
 JavaScript                   4:17   █████-----------------------------------   13%
 Python                       4:07   █████-----------------------------------   12%
-SCSS                         2:27   ██--------------------------------------    7%
-Markdown                     2:07   ██--------------------------------------    6%
+SCSS                         2:26   ███-------------------------------------    7%
+Markdown                     2:08   ██--------------------------------------    6%
 HTML                         1:06   █---------------------------------------    3%
 </pre>
 
@@ -99,5 +99,5 @@ HTML                         1:06   █---------------------------------------  
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday, 27 October 05:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Sunday, 27 October 17:24 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
