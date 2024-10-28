@@ -58,18 +58,18 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart                21:45   ███████████████████████████-------------   67%
+masterychart                21:53   ███████████████████████████-------------   67%
 wiha-tool                    7:38   █████████-------------------------------   23%
 docker-archive               1:00   █---------------------------------------    3%
 masterychart-self-crawler    0:44   ----------------------------------------    2%
 </pre>
 
 <pre>
-PHP                         15:29   ███████████████████---------------------   48%
+PHP                         15:32   ███████████████████---------------------   48%
 JavaScript                   4:17   █████-----------------------------------   13%
 Python                       4:07   █████-----------------------------------   12%
 SCSS                         2:26   ███-------------------------------------    7%
-Markdown                     2:08   ██--------------------------------------    6%
+Markdown                     2:13   ██--------------------------------------    6%
 HTML                         1:06   █---------------------------------------    3%
 </pre>
 
@@ -99,5 +99,5 @@ HTML                         1:06   █---------------------------------------  
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday, 27 October 17:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Monday, 28 October 05:25 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
