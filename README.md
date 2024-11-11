@@ -55,24 +55,6 @@
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/marvinscham/bibtex-oss?style=flat-square&labelColor=343b41"/></td>
     </tr></tbody>
 </table>
-<h2>📊 30-day breakdown</h2>
-
-<pre>
-masterychart     22:11   ████████████████████████----------------   61%
-wiha-tool         6:26   ███████---------------------------------   17%
-docker-archive    2:09   ██--------------------------------------    6%
-auth              2:00   ██--------------------------------------    5%
-</pre>
-
-<pre>
-PHP              20:26   ██████████████████████------------------   57%
-Python            4:25   ████------------------------------------   12%
-Markdown          3:44   ████------------------------------------   10%
-SCSS              1:31   █---------------------------------------    4%
-YAML              1:09   █---------------------------------------    3%
-JavaScript        1:08   █---------------------------------------    3%
-</pre>
-
 <h2>📓 Latest blog posts</h2>
 <ul>
 <li><a href="https://blog.marvinscham.de/css-color-filtering-svg/">CSS: Color Filtering SVG images</a></li>
@@ -99,5 +81,5 @@ JavaScript        1:08   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday, 10 November 17:22 CET</p>
+<p align="center" style="text-align:center;">Last update: Monday, 11 November 05:23 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
