@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart     21:55   ██████████████████████------------------   56%
-wiha-tool         8:11   ████████--------------------------------   21%
-docker-archive    3:50   ███-------------------------------------    9%
+masterychart     20:06   █████████████████████-------------------   54%
+wiha-tool         8:11   ████████--------------------------------   22%
+docker-archive    3:50   ████------------------------------------   10%
 rso-auth          2:02   ██--------------------------------------    5%
 </pre>
 
 <pre>
-PHP              19:55   ████████████████████--------------------   51%
-Python            6:20   ██████----------------------------------   16%
-Markdown          4:47   ████------------------------------------   12%
-SCSS              1:31   █---------------------------------------    3%
+PHP              18:29   ███████████████████---------------------   49%
+Python            6:20   ██████----------------------------------   17%
+Markdown          4:47   █████-----------------------------------   12%
 HTML              1:18   █---------------------------------------    3%
 YAML              1:17   █---------------------------------------    3%
+JavaScript        1:08   █---------------------------------------    3%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ YAML              1:17   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Thursday, 14 November 05:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Thursday, 14 November 17:26 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
