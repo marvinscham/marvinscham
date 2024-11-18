@@ -58,16 +58,16 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart     19:29   ████████████████████--------------------   50%
-wiha-tool         7:25   ███████---------------------------------   19%
-docker-archive    4:04   ████------------------------------------   10%
+masterychart     20:28   ████████████████████--------------------   51%
+wiha-tool         7:25   ███████---------------------------------   18%
+docker-archive    4:19   ████------------------------------------   10%
 rso-auth          2:02   ██--------------------------------------    5%
 </pre>
 
 <pre>
-PHP              19:23   ████████████████████--------------------   50%
-Python            7:04   ███████---------------------------------   18%
-Markdown          5:00   █████-----------------------------------   12%
+PHP              20:22   ████████████████████--------------------   50%
+Python            7:04   ███████---------------------------------   17%
+Markdown          5:18   █████-----------------------------------   13%
 YAML              1:29   █---------------------------------------    3%
 HTML              1:02   █---------------------------------------    2%
 SCSS              1:00   █---------------------------------------    2%
@@ -99,5 +99,5 @@ SCSS              1:00   █---------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 18 November 05:25 CET</p>
+<p align="center" style="text-align:center;">Last update: Monday, 18 November 17:27 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
