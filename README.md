@@ -60,16 +60,16 @@
 <pre>
 wiha-tool          5:08   ████████████----------------------------   30%
 AdventOfCode2024   3:17   ███████---------------------------------   19%
-docker-archive     2:14   █████-----------------------------------   13%
 masterychart       2:11   █████-----------------------------------   13%
+docker-archive     2:10   █████-----------------------------------   12%
 </pre>
 
 <pre>
 Python             7:41   ██████████████████----------------------   45%
 PHP                3:06   ███████---------------------------------   18%
 Markdown           2:34   ██████----------------------------------   15%
-YAML               1:21   ███-------------------------------------    8%
-HTML               0:45   █---------------------------------------    4%
+YAML               1:19   ███-------------------------------------    7%
+HTML               0:46   █---------------------------------------    4%
 Ruby               0:16   ----------------------------------------    1%
 </pre>
 
@@ -99,5 +99,5 @@ Ruby               0:16   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday, 11 December 05:26 CET</p>
+<p align="center" style="text-align:center;">Last update: Wednesday, 11 December 17:28 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
