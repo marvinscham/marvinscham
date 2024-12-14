@@ -65,8 +65,8 @@ Perlite            1:39   ████------------------------------------   12%
 </pre>
 
 <pre>
-Python             5:55   █████████████████-----------------------   43%
-PHP                3:06   █████████-------------------------------   22%
+Python             5:52   █████████████████-----------------------   43%
+PHP                3:06   █████████-------------------------------   23%
 Markdown           1:35   ████------------------------------------   11%
 YAML               1:11   ███-------------------------------------    8%
 HTML               0:30   █---------------------------------------    3%
@@ -99,5 +99,5 @@ Ruby               0:16   ----------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Saturday, 14 December 05:25 CET</p>
+<p align="center" style="text-align:center;">Last update: Saturday, 14 December 17:24 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
