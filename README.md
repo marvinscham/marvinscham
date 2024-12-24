@@ -59,13 +59,13 @@
 
 <pre>
 AdventOfCode2024   3:17   ████████████████------------------------   41%
-masterychart       1:40   ████████--------------------------------   21%
+masterychart       1:42   ████████--------------------------------   21%
 wiha-tool          1:31   ███████---------------------------------   19%
 disenchanter       0:40   ███-------------------------------------    8%
 </pre>
 
 <pre>
-Python             4:14   █████████████████████-------------------   53%
+Python             4:14   █████████████████████-------------------   52%
 PHP                1:24   ███████---------------------------------   17%
 Markdown           0:30   ██--------------------------------------    6%
 HTML               0:24   ██--------------------------------------    5%
@@ -82,8 +82,8 @@ Ruby               0:16   █---------------------------------------    3%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 1100</li>
-  <li>⚡ 90507 XP</li>
+  <li>🔥 Streak: 1101</li>
+  <li>⚡ 90535 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ Ruby               0:16   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 23 December 17:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Tuesday, 24 December 05:23 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
