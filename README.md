@@ -59,8 +59,8 @@
 
 <pre>
 AdventOfCode2024   3:17   █████████████████-----------------------   44%
+masterychart       1:19   ███████---------------------------------   17%
 wiha-tool          1:18   ███████---------------------------------   17%
-masterychart       1:17   ███████---------------------------------   17%
 disenchanter       0:40   ███-------------------------------------    9%
 </pre>
 
@@ -99,5 +99,5 @@ Text               0:15   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 30 December 05:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Monday, 30 December 17:24 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
