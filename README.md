@@ -73,13 +73,6 @@ Ruby               0:16   █---------------------------------------    3%
 Text               0:15   █---------------------------------------    3%
 </pre>
 
-<h2>📓 Latest blog posts</h2>
-<ul>
-<li><a href="https://blog.marvinscham.de/css-color-filtering-svg/">CSS: Color Filtering SVG images</a></li>
-<li><a href="https://blog.marvinscham.de/splitting-midi/">Splitting MIDI Controller Input</a></li>
-<li><a href="https://blog.marvinscham.de/dkim-strato-cloudflare/">(DE) DKIM mit Strato SMTP und Cloudflare DNS</a></li>
-</ul>
-
 <h2>🦉 Duolingo progress</h2>
 <ul>
   <li>🔥 Streak: 1106</li>
@@ -99,5 +92,5 @@ Text               0:15   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday, 31 December 05:23 CET</p>
+<p align="center" style="text-align:center;">Last update: Tuesday, 31 December 17:23 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
