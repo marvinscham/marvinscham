@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-AdventOfCode2024       3:17   ████████████████------------------------   40%
-wiha-tool              1:18   ██████----------------------------------   16%
-masterychart           1:05   █████-----------------------------------   13%
-pokemon-tcgp-tracker   0:44   ███-------------------------------------    9%
+AdventOfCode2024       3:17   ██████████████--------------------------   36%
+pokemon-tcgp-tracker   1:39   ███████---------------------------------   18%
+wiha-tool              1:18   █████-----------------------------------   14%
+masterychart           1:05   ████------------------------------------   12%
 </pre>
 
 <pre>
-Python                 4:44   ███████████████████████-----------------   58%
-PHP                    0:58   ████------------------------------------   11%
+Python                 5:18   ███████████████████████-----------------   58%
+PHP                    0:58   ████------------------------------------   10%
+HTML                   0:36   ██--------------------------------------    6%
 YAML                   0:27   ██--------------------------------------    5%
 Markdown               0:23   █---------------------------------------    4%
-HTML                   0:18   █---------------------------------------    3%
-Ruby                   0:16   █---------------------------------------    3%
+Ruby                   0:16   █---------------------------------------    2%
 </pre>
 
 <h2>🦉 Duolingo progress</h2>
@@ -92,5 +92,5 @@ Ruby                   0:16   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Thursday,  2 January 05:23 CET</p>
+<p align="center" style="text-align:center;">Last update: Thursday,  2 January 17:24 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
