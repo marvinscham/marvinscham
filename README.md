@@ -69,7 +69,7 @@ HTML                    8:48   ████████████████�
 Python                  6:09   ████████████----------------------------   32%
 PHP                     0:52   █---------------------------------------    4%
 YAML                    0:44   █---------------------------------------    3%
-Markdown                0:28   █---------------------------------------    2%
+Markdown                0:26   ----------------------------------------    2%
 JSON                    0:19   ----------------------------------------    1%
 </pre>
 
@@ -92,5 +92,5 @@ JSON                    0:19   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday,  6 January 05:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Monday,  6 January 17:25 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
