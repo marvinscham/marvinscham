@@ -58,20 +58,27 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   15:43   █████████████████████████████████-------   82%
-masterychart            0:59   ██--------------------------------------    5%
+pokemon-tcgp-tracker   15:43   █████████████████████████████████-------   84%
+masterychart            0:50   █---------------------------------------    4%
 disenchanter            0:40   █---------------------------------------    3%
 wiha-tool               0:35   █---------------------------------------    3%
 </pre>
 
 <pre>
-HTML                    8:46   ██████████████████----------------------   46%
-Python                  6:11   █████████████---------------------------   32%
-PHP                     0:52   █---------------------------------------    4%
-YAML                    0:44   █---------------------------------------    3%
-Markdown                0:26   ----------------------------------------    2%
-JSON                    0:19   ----------------------------------------    1%
+HTML                    8:46   ██████████████████----------------------   47%
+Python                  6:11   █████████████---------------------------   33%
+PHP                     0:46   █---------------------------------------    4%
+YAML                    0:35   █---------------------------------------    3%
+Markdown                0:21   ----------------------------------------    1%
+unknown                 0:18   ----------------------------------------    1%
 </pre>
+
+<h2>📓 Latest blog posts</h2>
+<ul>
+<li><a href="https://blog.marvinscham.de/css-color-filtering-svg/">CSS: Color Filtering SVG images</a></li>
+<li><a href="https://blog.marvinscham.de/splitting-midi/">Splitting MIDI Controller Input</a></li>
+<li><a href="https://blog.marvinscham.de/dkim-strato-cloudflare/">(DE) DKIM mit Strato SMTP und Cloudflare DNS</a></li>
+</ul>
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
@@ -92,5 +99,5 @@ JSON                    0:19   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Thursday,  9 January 05:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Thursday,  9 January 17:25 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
