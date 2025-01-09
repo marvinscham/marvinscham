@@ -66,7 +66,7 @@ wiha-tool               0:35   █---------------------------------------    3%
 
 <pre>
 HTML                    8:46   ██████████████████----------------------   46%
-Python                  6:09   ████████████----------------------------   32%
+Python                  6:11   █████████████---------------------------   32%
 PHP                     0:52   █---------------------------------------    4%
 YAML                    0:44   █---------------------------------------    3%
 Markdown                0:26   ----------------------------------------    2%
@@ -75,8 +75,8 @@ JSON                    0:19   ----------------------------------------    1%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 1112</li>
-  <li>⚡ 91041 XP</li>
+  <li>🔥 Streak: 1113</li>
+  <li>⚡ 91081 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -92,5 +92,5 @@ JSON                    0:19   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday,  8 January 17:25 CET</p>
+<p align="center" style="text-align:center;">Last update: Thursday,  9 January 05:24 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
