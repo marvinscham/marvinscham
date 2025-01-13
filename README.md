@@ -58,20 +58,34 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   15:43   █████████████████████████████████-------   82%
+pokemon-tcgp-tracker   15:43   ████████████████████████████████--------   82%
 masterychart            1:32   ███-------------------------------------    8%
 wiha-tool               0:34   █---------------------------------------    3%
 rso-auth                0:25   ----------------------------------------    2%
 </pre>
 
 <pre>
-HTML                    8:45   ██████████████████----------------------   46%
+HTML                    8:45   ██████████████████----------------------   45%
 Python                  6:19   █████████████---------------------------   33%
 PHP                     1:16   ██--------------------------------------    6%
 YAML                    0:28   █---------------------------------------    2%
 unknown                 0:20   ----------------------------------------    1%
-Docker                  0:15   ----------------------------------------    1%
+Markdown                0:19   ----------------------------------------    1%
 </pre>
+
+<h2>📓 Latest blog posts</h2>
+<ul>
+<li><a href="https://blog.marvinscham.de/css-color-filtering-svg/">CSS: Color Filtering SVG images</a></li>
+<li><a href="https://blog.marvinscham.de/splitting-midi/">Splitting MIDI Controller Input</a></li>
+<li><a href="https://blog.marvinscham.de/dkim-strato-cloudflare/">(DE) DKIM mit Strato SMTP und Cloudflare DNS</a></li>
+</ul>
+
+<h2>🦉 Duolingo progress</h2>
+<ul>
+  <li>🔥 Streak: 1116</li>
+  <li>⚡ 91205 XP</li>
+  <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
+</ul>
 
 
 <h2>👥 Social</h2>
@@ -85,5 +99,5 @@ Docker                  0:15   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 13 January 05:25 CET</p>
+<p align="center" style="text-align:center;">Last update: Monday, 13 January 17:26 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
