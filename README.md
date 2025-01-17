@@ -58,17 +58,17 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   15:46   ████████████████████████████████--------   82%
-masterychart            1:32   ███-------------------------------------    8%
-wiha-tool               0:36   █---------------------------------------    3%
+pokemon-tcgp-tracker   16:03   ████████████████████████████████--------   82%
+masterychart            1:38   ███-------------------------------------    8%
+wiha-tool               0:34   █---------------------------------------    2%
 rso-auth                0:25   ----------------------------------------    2%
 </pre>
 
 <pre>
-HTML                    8:47   ██████████████████----------------------   45%
-Python                  6:21   █████████████---------------------------   33%
+HTML                    8:47   █████████████████-----------------------   44%
+Python                  6:22   █████████████---------------------------   32%
 PHP                     1:16   ██--------------------------------------    6%
-YAML                    0:28   █---------------------------------------    2%
+YAML                    0:34   █---------------------------------------    2%
 unknown                 0:20   ----------------------------------------    1%
 Markdown                0:19   ----------------------------------------    1%
 </pre>
@@ -99,5 +99,5 @@ Markdown                0:19   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Thursday, 16 January 17:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Friday, 17 January 05:23 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
