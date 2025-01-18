@@ -59,7 +59,7 @@
 
 <pre>
 pokemon-tcgp-tracker   16:03   █████████████████████████████████-------   84%
-masterychart            1:44   ███-------------------------------------    9%
+masterychart            1:45   ███-------------------------------------    9%
 rso-auth                0:25   ----------------------------------------    2%
 midi-humanizer          0:16   ----------------------------------------    1%
 </pre>
@@ -67,7 +67,7 @@ midi-humanizer          0:16   ----------------------------------------    1%
 <pre>
 HTML                    8:43   ██████████████████----------------------   45%
 Python                  5:59   ████████████----------------------------   31%
-PHP                     1:18   ██--------------------------------------    6%
+PHP                     1:20   ██--------------------------------------    7%
 YAML                    0:34   █---------------------------------------    3%
 unknown                 0:20   ----------------------------------------    1%
 Docker                  0:20   ----------------------------------------    1%
@@ -82,8 +82,8 @@ Docker                  0:20   ----------------------------------------    1%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 1118</li>
-  <li>⚡ 91249 XP</li>
+  <li>🔥 Streak: 1119</li>
+  <li>⚡ 91278 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ Docker                  0:20   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Friday, 17 January 17:23 CET</p>
+<p align="center" style="text-align:center;">Last update: Saturday, 18 January 05:21 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
