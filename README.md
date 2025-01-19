@@ -58,17 +58,17 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   16:03   █████████████████████████████████-------   84%
-masterychart            1:43   ███-------------------------------------    9%
+pokemon-tcgp-tracker   16:03   ██████████████████████████████████------   86%
+masterychart            1:26   ███-------------------------------------    7%
 rso-auth                0:25   ----------------------------------------    2%
 midi-humanizer          0:16   ----------------------------------------    1%
 </pre>
 
 <pre>
-HTML                    8:43   ██████████████████----------------------   45%
-Python                  5:59   ████████████----------------------------   31%
-PHP                     1:18   ██--------------------------------------    6%
-YAML                    0:34   █---------------------------------------    3%
+HTML                    8:43   ██████████████████----------------------   46%
+Python                  5:57   ████████████----------------------------   31%
+PHP                     1:02   ██--------------------------------------    5%
+YAML                    0:33   █---------------------------------------    2%
 unknown                 0:20   ----------------------------------------    1%
 Docker                  0:20   ----------------------------------------    1%
 </pre>
@@ -99,5 +99,5 @@ Docker                  0:20   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday, 19 January 05:22 CET</p>
+<p align="center" style="text-align:center;">Last update: Sunday, 19 January 17:21 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
