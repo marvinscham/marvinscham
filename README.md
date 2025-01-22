@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   16:03   ██████████████████████████████████------   86%
-masterychart            1:18   ██--------------------------------------    7%
+pokemon-tcgp-tracker   16:03   █████████████████████████████████-------   84%
+masterychart            1:16   ██--------------------------------------    6%
+ultimate-rvc            0:29   █---------------------------------------    2%
 rso-auth                0:25   ----------------------------------------    2%
-midi-humanizer          0:16   ----------------------------------------    1%
 </pre>
 
 <pre>
-HTML                    8:43   ██████████████████----------------------   46%
-Python                  5:57   ████████████----------------------------   32%
-PHP                     0:48   █---------------------------------------    4%
+HTML                    8:43   ██████████████████----------------------   45%
+Python                  6:13   █████████████---------------------------   32%
+PHP                     0:46   █---------------------------------------    4%
 YAML                    0:39   █---------------------------------------    3%
-Markdown                0:20   ----------------------------------------    1%
-Docker                  0:20   ----------------------------------------    1%
+Docker                  0:31   █---------------------------------------    2%
+Markdown                0:25   ----------------------------------------    2%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ Docker                  0:20   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday, 22 January 05:23 CET</p>
+<p align="center" style="text-align:center;">Last update: Wednesday, 22 January 17:25 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
