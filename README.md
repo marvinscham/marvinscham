@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   16:02   ████████████████████████████████--------   80%
-masterychart            2:18   ████------------------------------------   11%
+pokemon-tcgp-tracker   15:07   ████████████████████████████████--------   80%
+masterychart            2:18   ████------------------------------------   12%
 ultimate-rvc            0:37   █---------------------------------------    3%
 midi-humanizer          0:16   ----------------------------------------    1%
 </pre>
 
 <pre>
-HTML                    8:55   ██████████████████----------------------   45%
-Python                  5:46   ███████████-----------------------------   29%
-PHP                     1:34   ███-------------------------------------    7%
+HTML                    8:35   ██████████████████----------------------   45%
+Python                  5:14   ███████████-----------------------------   27%
+PHP                     1:34   ███-------------------------------------    8%
 Markdown                0:41   █---------------------------------------    3%
-YAML                    0:34   █---------------------------------------    2%
-Docker                  0:34   █---------------------------------------    2%
+YAML                    0:34   █---------------------------------------    3%
+Docker                  0:34   █---------------------------------------    3%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ Docker                  0:34   █---------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Saturday,  1 February 05:22 CET</p>
+<p align="center" style="text-align:center;">Last update: Saturday,  1 February 17:21 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
