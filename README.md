@@ -58,16 +58,16 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   9:50   ████████████████████████████------------   72%
-masterychart           2:20   ██████----------------------------------   17%
-ultimate-rvc           0:37   █---------------------------------------    4%
-midi-humanizer         0:16   ----------------------------------------    1%
+pokemon-tcgp-tracker   7:45   ██████████████████████████--------------   67%
+masterychart           2:20   ████████--------------------------------   20%
+ultimate-rvc           0:37   ██--------------------------------------    5%
+midi-humanizer         0:16   ----------------------------------------    2%
 </pre>
 
 <pre>
-HTML                   4:48   ██████████████--------------------------   35%
-Python                 3:49   ███████████-----------------------------   28%
-PHP                    1:37   ████------------------------------------   11%
+HTML                   3:22   ███████████-----------------------------   29%
+Python                 3:10   ██████████------------------------------   27%
+PHP                    1:37   █████-----------------------------------   14%
 Markdown               0:41   ██--------------------------------------    5%
 YAML                   0:34   █---------------------------------------    4%
 Docker                 0:34   █---------------------------------------    4%
@@ -99,5 +99,5 @@ Docker                 0:34   █---------------------------------------    4%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday,  2 February 05:21 CET</p>
+<p align="center" style="text-align:center;">Last update: Sunday,  2 February 17:22 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
