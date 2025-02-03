@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   5:42   ███████████████████████-----------------   59%
-masterychart           2:22   ██████████------------------------------   25%
-ultimate-rvc           0:37   ██--------------------------------------    6%
-midi-humanizer         0:16   █---------------------------------------    2%
+masterychart           2:22   █████████████████-----------------------   43%
+pokemon-tcgp-tracker   1:43   ████████████----------------------------   31%
+ultimate-rvc           0:37   ████------------------------------------   11%
+midi-humanizer         0:16   █---------------------------------------    4%
 </pre>
 
 <pre>
-HTML                   2:29   ██████████------------------------------   26%
-Python                 2:02   ████████--------------------------------   21%
-PHP                    1:39   ██████----------------------------------   17%
-Markdown               0:41   ██--------------------------------------    7%
-YAML                   0:34   ██--------------------------------------    6%
-Docker                 0:34   ██--------------------------------------    5%
+PHP                    1:39   ███████████-----------------------------   29%
+Python                 1:07   ████████--------------------------------   20%
+Markdown               0:36   ████------------------------------------   10%
+HTML                   0:27   ███-------------------------------------    8%
+Docker                 0:21   ██--------------------------------------    6%
+YAML                   0:17   ██--------------------------------------    5%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -99,5 +99,5 @@ Docker                 0:34   ██--------------------------------------    5%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday,  3 February 05:23 CET</p>
+<p align="center" style="text-align:center;">Last update: Monday,  3 February 17:24 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
