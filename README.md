@@ -58,14 +58,14 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart           2:01   █████████████████-----------------------   43%
+masterychart           2:00   █████████████████-----------------------   42%
 pokemon-tcgp-tracker   1:04   █████████-------------------------------   22%
 ultimate-rvc           0:37   █████-----------------------------------   13%
 webtechniken           0:25   ███-------------------------------------    9%
 </pre>
 
 <pre>
-PHP                    1:26   ████████████----------------------------   30%
+PHP                    1:25   ████████████----------------------------   30%
 Markdown               0:45   ██████----------------------------------   16%
 Python                 0:35   █████-----------------------------------   12%
 HTML                   0:34   ████------------------------------------   12%
@@ -82,8 +82,8 @@ YAML                   0:17   ██--------------------------------------    6%
 
 <h2>🦉 Duolingo progress</h2>
 <ul>
-  <li>🔥 Streak: 1137</li>
-  <li>⚡ 92059 XP</li>
+  <li>🔥 Streak: 1138</li>
+  <li>⚡ 92087 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/eo.png"/> Esperanto</li>
 </ul>
 
@@ -99,5 +99,5 @@ YAML                   0:17   ██--------------------------------------    6%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 10 February 17:25 CET</p>
+<p align="center" style="text-align:center;">Last update: Tuesday, 11 February 05:23 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
