@@ -58,17 +58,17 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart           2:05   ████████████████------------------------   41%
-briefmarken-blumen     0:46   ██████----------------------------------   15%
+masterychart           2:10   █████████████████-----------------------   42%
+briefmarken-blumen     0:46   █████-----------------------------------   14%
 pokemon-tcgp-tracker   0:43   █████-----------------------------------   14%
 ultimate-rvc           0:37   ████------------------------------------   12%
 </pre>
 
 <pre>
-PHP                    1:37   ████████████----------------------------   32%
-Python                 1:15   ██████████------------------------------   25%
-Markdown               0:37   ████------------------------------------   12%
-HTML                   0:33   ████------------------------------------   11%
+PHP                    1:37   ████████████----------------------------   31%
+Python                 1:15   █████████-------------------------------   24%
+Markdown               0:40   █████-----------------------------------   13%
+HTML                   0:33   ████------------------------------------   10%
 Docker                 0:16   ██--------------------------------------    5%
 YAML                   0:13   █---------------------------------------    4%
 </pre>
@@ -99,5 +99,5 @@ YAML                   0:13   █---------------------------------------    4%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 17 February 05:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Monday, 17 February 17:25 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
