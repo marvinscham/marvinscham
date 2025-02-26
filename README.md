@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart           2:07   ██████████████████----------------------   46%
-pokemon-tcgp-tracker   0:57   ████████--------------------------------   21%
-briefmarken-blumen     0:46   ██████----------------------------------   16%
-webtechniken           0:25   ███-------------------------------------    9%
+pokemon-tcgp-tracker   3:25   ███████████████████---------------------   48%
+masterychart           2:07   ████████████----------------------------   30%
+briefmarken-blumen     0:46   ████------------------------------------   10%
+webtechniken           0:25   ██--------------------------------------    6%
 </pre>
 
 <pre>
-PHP                    1:46   ███████████████-------------------------   38%
-Python                 1:03   █████████-------------------------------   23%
-HTML                   0:35   █████-----------------------------------   13%
-Markdown               0:34   █████-----------------------------------   12%
-CSS                    0:08   █---------------------------------------    2%
-SQL                    0:05   ----------------------------------------    2%
+Python                 2:19   █████████████---------------------------   33%
+PHP                    1:46   ██████████------------------------------   25%
+HTML                   1:22   ███████---------------------------------   19%
+Markdown               0:38   ███-------------------------------------    9%
+SQL                    0:12   █---------------------------------------    2%
+Bash                   0:09   ----------------------------------------    2%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -83,7 +83,7 @@ SQL                    0:05   ----------------------------------------    2%
 <h2>🦉 Duolingo progress</h2>
 <ul>
   <li>🔥 Streak: 1149</li>
-  <li>⚡ 92812 XP</li>
+  <li>⚡ 92915 XP</li>
   <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/en.png"/> English</li>
 </ul>
 
@@ -99,5 +99,5 @@ SQL                    0:05   ----------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday, 25 February 17:26 CET</p>
+<p align="center" style="text-align:center;">Last update: Wednesday, 26 February 05:25 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
