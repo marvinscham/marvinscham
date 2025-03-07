@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   6:47   █████████████████████████████-----------   73%
-masterychart           1:18   █████-----------------------------------   14%
-briefmarken-blumen     0:46   ███-------------------------------------    8%
-checksch               0:07   ----------------------------------------    1%
+pokemon-tcgp-tracker   6:47   ███████████████████████████-------------   69%
+masterychart           1:18   █████-----------------------------------   13%
+briefmarken-blumen     0:46   ███-------------------------------------    7%
+ms-homepage            0:24   █---------------------------------------    4%
 </pre>
 
 <pre>
-Python                 3:40   ███████████████-------------------------   39%
-HTML                   2:44   ███████████-----------------------------   29%
-PHP                    1:10   █████-----------------------------------   12%
-Markdown               0:23   █---------------------------------------    4%
-SQL                    0:14   █---------------------------------------    2%
-INI                    0:12   ----------------------------------------    2%
+Python                 3:40   ██████████████--------------------------   37%
+HTML                   2:42   ███████████-----------------------------   27%
+PHP                    1:30   ██████----------------------------------   15%
+Markdown               0:25   █---------------------------------------    4%
+INI                    0:18   █---------------------------------------    3%
+SQL                    0:14   ----------------------------------------    2%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -78,13 +78,6 @@ INI                    0:12   ----------------------------------------    2%
 <li><a href="https://blog.marvinscham.de/css-color-filtering-svg/">CSS: Color Filtering SVG images</a></li>
 <li><a href="https://blog.marvinscham.de/splitting-midi/">Splitting MIDI Controller Input</a></li>
 <li><a href="https://blog.marvinscham.de/dkim-strato-cloudflare/">(DE) DKIM mit Strato SMTP und Cloudflare DNS</a></li>
-</ul>
-
-<h2>🦉 Duolingo progress</h2>
-<ul>
-  <li>🔥 Streak: 1155</li>
-  <li>⚡ 93259 XP</li>
-  <li>👨‍🎓 Currently learning: <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/en.png"/> English</li>
 </ul>
 
 
@@ -99,5 +92,5 @@ INI                    0:12   ----------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Thursday,  6 March 17:26 CET</p>
+<p align="center" style="text-align:center;">Last update: Friday,  7 March 05:25 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
