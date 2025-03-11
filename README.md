@@ -58,16 +58,16 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   6:59   ███████████████████████████-------------   67%
-masterychart           1:21   █████-----------------------------------   13%
+pokemon-tcgp-tracker   6:58   ██████████████████████████--------------   66%
+masterychart           1:33   █████-----------------------------------   14%
 briefmarken-blumen     0:46   ██--------------------------------------    7%
 checksch               0:43   ██--------------------------------------    6%
 </pre>
 
 <pre>
-Python                 3:49   ██████████████--------------------------   36%
+Python                 3:48   ██████████████--------------------------   36%
 HTML                   2:45   ██████████------------------------------   26%
-PHP                    1:50   ███████---------------------------------   17%
+PHP                    2:01   ███████---------------------------------   19%
 YAML                   0:24   █---------------------------------------    3%
 INI                    0:20   █---------------------------------------    3%
 SQL                    0:14   ----------------------------------------    2%
@@ -92,5 +92,5 @@ SQL                    0:14   ----------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 10 March 17:24 CET</p>
+<p align="center" style="text-align:center;">Last update: Tuesday, 11 March 05:25 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
