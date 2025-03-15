@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   6:58   █████████████████████████---------------   64%
-masterychart           1:30   █████-----------------------------------   13%
-briefmarken-blumen     0:46   ██--------------------------------------    7%
-checksch               0:43   ██--------------------------------------    6%
+pokemon-tcgp-tracker   6:58   ███████████████████████████-------------   69%
+masterychart           1:30   █████-----------------------------------   14%
+checksch               0:43   ██--------------------------------------    7%
+ms-homepage            0:26   █---------------------------------------    4%
 </pre>
 
 <pre>
-Python                 3:47   ██████████████--------------------------   35%
-HTML                   2:45   ██████████------------------------------   25%
-PHP                    1:46   ██████----------------------------------   16%
+Python                 3:03   ████████████----------------------------   30%
+HTML                   2:45   ███████████-----------------------------   27%
+PHP                    1:46   ███████---------------------------------   17%
 YAML                   0:22   █---------------------------------------    3%
 INI                    0:20   █---------------------------------------    3%
-TOML                   0:19   █---------------------------------------    2%
+TOML                   0:19   █---------------------------------------    3%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -92,5 +92,5 @@ TOML                   0:19   █---------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Saturday, 15 March 05:23 CET</p>
+<p align="center" style="text-align:center;">Last update: Saturday, 15 March 17:23 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
