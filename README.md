@@ -58,9 +58,9 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart              3:40   █████████████████-----------------------   42%
-thesis-dokumente-ocr-ki   2:07   █████████-------------------------------   24%
-pokemon-tcgp-tracker      1:13   █████-----------------------------------   14%
+masterychart              3:40   █████████████████-----------------------   43%
+thesis-dokumente-ocr-ki   2:07   ██████████------------------------------   25%
+pokemon-tcgp-tracker      1:07   █████-----------------------------------   13%
 checksch                  0:43   ███-------------------------------------    8%
 </pre>
 
@@ -92,5 +92,5 @@ TOML                      0:19   █---------------------------------------    3
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 31 March 06:26 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday, 31 March 18:27 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
