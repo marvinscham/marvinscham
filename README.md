@@ -6,29 +6,29 @@
 <p>
 <img alt="PHP" style="display:inline-block;" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="Plausible" style="display:inline-block;" src="https://img.shields.io/badge/-Plausible-5850EC?style=flat-square&logo=plausibleanalytics&logoColor=white" />
-<img alt="Sentry" style="display:inline-block;" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-<img alt="OpenAI" style="display:inline-block;" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img alt="Obsidian" style="display:inline-block;" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
-<img alt="Sass" style="display:inline-block;" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="n8n" style="display:inline-block;" src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img alt="Chart.js" style="display:inline-block;" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
 <img alt="Riot API" style="display:inline-block;" src="https://img.shields.io/badge/-Riot_API-EB0029?style=flat-square&logo=riotgames&logoColor=white" />
-<img alt="Ruby" style="display:inline-block;" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+<img alt="WireGuard" style="display:inline-block;" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
+<img alt="Authentik" style="display:inline-block;" src="https://img.shields.io/badge/-Authentik-FD4B2D?style=flat-square&logo=authentik&logoColor=white" />
 <img alt="Git" style="display:inline-block;" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="HTML5" style="display:inline-block;" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="GitLab CI" style="display:inline-block;" src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
 <img alt="Cloudflare" style="display:inline-block;" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img alt="D3.js" style="display:inline-block;" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
+<img alt="D3.js" style="display:inline-block;" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3&logoColor=white" />
 <img alt="JavaScript" style="display:inline-block;" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="Gitea" style="display:inline-block;" src="https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=gitea&logoColor=white" />
 <img alt="Bash" style="display:inline-block;" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-<img alt="NGINX" style="display:inline-block;" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img alt="Weblate" style="display:inline-block;" src="https://img.shields.io/badge/-Weblate-2ECCAA?style=flat-square&logo=weblate&logoColor=white" />
+<img alt="Paperless" style="display:inline-block;" src="https://img.shields.io/badge/-Paperless-17541F?style=flat-square&logo=paperlessngx&logoColor=white" />
+<img alt="nginx" style="display:inline-block;" src="https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img alt="LaTeX" style="display:inline-block;" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+<img alt="Tailwind" style="display:inline-block;" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img alt="SonarQube" style="display:inline-block;" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-<img alt="VS Code" style="display:inline-block;" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img alt="Docker" style="display:inline-block;" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-<img alt="GitHub Actions" style="display:inline-block;" src="https://img.shields.io/badge/-GitHub_Actions-2496ED?style=flat-square&logo=githubactions&logoColor=white" />
 <img alt="Python" style="display:inline-block;" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="MariaDB" style="display:inline-block;" src="https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white" />
+<img alt="Immich" style="display:inline-block;" src="https://img.shields.io/badge/-Immich-4250AF?style=flat-square&logo=immich&logoColor=white" />
 <img alt="Markdown" style="display:inline-block;" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img alt="Django" style="display:inline-block;" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img alt="Ghost" style="display:inline-block;" src="https://img.shields.io/badge/-Ghost-15171A?style=flat-square&logo=ghost&logoColor=white" />
 </p>
 
@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart              4:23   ████████████████████--------------------   50%
-thesis-dokumente-ocr-ki   2:07   █████████-------------------------------   24%
-checksch                  0:43   ███-------------------------------------    8%
+masterychart              4:27   ███████████████████---------------------   47%
+thesis-dokumente-ocr-ki   2:07   █████████-------------------------------   22%
+checksch                  0:43   ███-------------------------------------    7%
 pokemon-tcgp-tracker      0:35   ██--------------------------------------    6%
 </pre>
 
 <pre>
-PHP                       2:19   ██████████------------------------------   26%
-TeX                       1:25   ██████----------------------------------   16%
-YAML                      1:08   █████-----------------------------------   13%
-unknown                   1:00   ████------------------------------------   11%
-Docker                    0:54   ████------------------------------------   10%
-Python                    0:20   █---------------------------------------    3%
+PHP                       2:19   █████████-------------------------------   24%
+TeX                       1:25   ██████----------------------------------   15%
+YAML                      1:10   █████-----------------------------------   12%
+unknown                   1:06   ████------------------------------------   11%
+Docker                    0:54   ███-------------------------------------    9%
+JSON                      0:34   ██--------------------------------------    6%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -92,5 +92,5 @@ Python                    0:20   █---------------------------------------    3
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday,  1 April 18:26 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday,  2 April 06:25 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
