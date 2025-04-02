@@ -72,7 +72,7 @@ with open(os.path.join(resource_dir, "socials.json")) as f:
     socials = json.load(f)
 
 # Sort to build rainbow
-hue_shift = 0.37
+hue_shift = 0.35
 darkness_bias = 0.2
 
 technologies = sorted(
