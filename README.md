@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterychart              4:08   ███████████████████---------------------   48%
-thesis-dokumente-ocr-ki   2:07   █████████-------------------------------   24%
-checksch                  0:36   ██--------------------------------------    7%
+masterychart              4:08   █████████████████████-------------------   53%
+thesis-dokumente-ocr-ki   2:07   ██████████------------------------------   27%
 marvinscham               0:27   ██--------------------------------------    5%
+OpenManus                 0:21   █---------------------------------------    4%
 </pre>
 
 <pre>
-PHP                       1:53   ████████--------------------------------   22%
-TeX                       1:25   ██████----------------------------------   16%
-YAML                      1:10   █████-----------------------------------   13%
-unknown                   1:06   █████-----------------------------------   13%
-Docker                    0:54   ████------------------------------------   10%
-JSON                      0:33   ██--------------------------------------    6%
+TeX                       1:25   ███████---------------------------------   18%
+PHP                       1:21   ███████---------------------------------   17%
+YAML                      1:11   ██████----------------------------------   15%
+unknown                   1:04   █████-----------------------------------   13%
+Docker                    0:54   ████------------------------------------   11%
+JSON                      0:31   ██--------------------------------------    6%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -92,5 +92,5 @@ JSON                      0:33   ██--------------------------------------   
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Saturday,  5 April 18:25 CEST</p>
+<p align="center" style="text-align:center;">Last update: Sunday,  6 April 06:26 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
