@@ -68,7 +68,7 @@ habits                 0:51   █---------------------------------------    4%
 Python                 6:37   ██████████████--------------------------   37%
 CSS                    2:31   █████-----------------------------------   14%
 PHP                    1:35   ███-------------------------------------    8%
-YAML                   1:19   ██--------------------------------------    7%
+YAML                   1:14   ██--------------------------------------    6%
 TOML                   1:03   ██--------------------------------------    5%
 unknown                0:55   ██--------------------------------------    5%
 </pre>
@@ -92,5 +92,5 @@ unknown                0:55   ██--------------------------------------    5%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Saturday, 19 April 18:26 CEST</p>
+<p align="center" style="text-align:center;">Last update: Sunday, 20 April 06:24 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
