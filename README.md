@@ -58,18 +58,18 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   9:30   █████████████████-----------------------   43%
+pokemon-tcgp-tracker   9:30   ████████████████------------------------   42%
 hochzeit               5:12   █████████-------------------------------   23%
-trackstack             4:31   ████████--------------------------------   20%
-masterychart           1:06   ██--------------------------------------    5%
+trackstack             5:06   █████████-------------------------------   22%
+masterychart           1:06   █---------------------------------------    4%
 </pre>
 
 <pre>
-Python                 6:38   ████████████----------------------------   30%
+Python                 6:38   ███████████-----------------------------   29%
 CSS                    2:32   ████------------------------------------   11%
-Svelte                 2:01   ███-------------------------------------    9%
+Svelte                 2:06   ███-------------------------------------    9%
+Go                     2:02   ███-------------------------------------    9%
 PHP                    1:35   ██--------------------------------------    7%
-Go                     1:31   ██--------------------------------------    6%
 TOML                   1:03   █---------------------------------------    4%
 </pre>
 
@@ -92,5 +92,5 @@ TOML                   1:03   █---------------------------------------    4%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 28 April 06:27 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday, 28 April 18:27 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
