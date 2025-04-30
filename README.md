@@ -61,7 +61,7 @@
 pokemon-tcgp-tracker   9:30   ████████████████------------------------   40%
 trackstack             6:10   ██████████------------------------------   26%
 hochzeit               5:12   ████████--------------------------------   22%
-masterychart           1:06   █---------------------------------------    4%
+masterychart           1:04   █---------------------------------------    4%
 </pre>
 
 <pre>
@@ -92,5 +92,5 @@ TOML                   1:03   █---------------------------------------    4%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday, 29 April 18:27 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday, 30 April 06:26 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
