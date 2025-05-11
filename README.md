@@ -58,18 +58,18 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-pokemon-tcgp-tracker   14:29   ███████████████████████-----------------   57%
-trackstack              6:10   █████████-------------------------------   24%
+pokemon-tcgp-tracker   13:54   ██████████████████████------------------   56%
+trackstack              6:10   ██████████------------------------------   25%
 masterthesis            2:31   ████------------------------------------   10%
-hochzeit                0:59   █---------------------------------------    3%
+hochzeit                0:59   █---------------------------------------    4%
 </pre>
 
 <pre>
-Python                 10:09   ████████████████------------------------   40%
-Svelte                  3:00   ████------------------------------------   11%
+Python                  9:40   ███████████████-------------------------   39%
+Svelte                  3:00   ████------------------------------------   12%
 TeX                     2:19   ███-------------------------------------    9%
 Go                      2:11   ███-------------------------------------    8%
-JSON                    1:25   ██--------------------------------------    5%
+JSON                    1:19   ██--------------------------------------    5%
 HTML                    1:10   █---------------------------------------    4%
 </pre>
 
@@ -92,5 +92,5 @@ HTML                    1:10   █---------------------------------------    4%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday, 11 May 06:26 CEST</p>
+<p align="center" style="text-align:center;">Last update: Sunday, 11 May 18:25 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
