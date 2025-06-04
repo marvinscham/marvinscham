@@ -58,17 +58,17 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterthesis             11:26   ███████████████████---------------------   47%
-masterychart              4:28   ███████---------------------------------   18%
-masterthesis-praktisch    3:18   █████-----------------------------------   13%
-wiha-tool                 2:12   ███-------------------------------------    9%
+masterthesis             11:26   █████████████████-----------------------   44%
+masterthesis-praktisch    4:32   ███████---------------------------------   17%
+masterychart              4:28   ██████----------------------------------   17%
+wiha-tool                 2:52   ████------------------------------------   11%
 </pre>
 
 <pre>
-TeX                      10:41   █████████████████-----------------------   44%
-Python                    4:55   ████████--------------------------------   20%
-PHP                       3:43   ██████----------------------------------   15%
-JSON                      1:27   ██--------------------------------------    6%
+TeX                      10:41   ████████████████------------------------   41%
+Python                    6:38   ██████████------------------------------   25%
+PHP                       3:43   █████-----------------------------------   14%
+JSON                      1:39   ██--------------------------------------    6%
 Markdown                  0:54   █---------------------------------------    3%
 BibTeX                    0:39   █---------------------------------------    2%
 </pre>
@@ -92,5 +92,5 @@ BibTeX                    0:39   █---------------------------------------    2
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday,  4 June 06:30 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday,  4 June 18:25 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
