@@ -58,17 +58,17 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterthesis             9:00   ███████████████████---------------------   49%
-masterthesis-praktisch   5:33   ████████████----------------------------   30%
+masterthesis             9:00   ████████████████████--------------------   50%
+masterthesis-praktisch   5:33   ████████████----------------------------   31%
 wiha-tool                1:43   ███-------------------------------------    9%
-masterychart             1:30   ███-------------------------------------    8%
+masterychart             1:09   ██--------------------------------------    6%
 </pre>
 
 <pre>
-TeX                      8:28   ██████████████████----------------------   46%
+TeX                      8:28   ███████████████████---------------------   47%
 Python                   5:25   ████████████----------------------------   30%
-PHP                      1:22   ███-------------------------------------    7%
 JSON                     1:17   ██--------------------------------------    7%
+PHP                      1:02   ██--------------------------------------    5%
 Markdown                 0:30   █---------------------------------------    2%
 BibTeX                   0:28   █---------------------------------------    2%
 </pre>
@@ -92,5 +92,5 @@ BibTeX                   0:28   █---------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Thursday, 12 June 06:29 CEST</p>
+<p align="center" style="text-align:center;">Last update: Thursday, 12 June 18:29 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
