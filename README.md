@@ -60,17 +60,17 @@
 <pre>
 masterthesis             9:00   ████████████████████--------------------   50%
 masterthesis-praktisch   5:33   ████████████----------------------------   31%
-wiha-tool                1:43   ███-------------------------------------    9%
-masterychart             1:09   ██--------------------------------------    6%
+masterychart             1:46   ███-------------------------------------    9%
+wiha-tool                1:01   ██--------------------------------------    5%
 </pre>
 
 <pre>
-TeX                      8:28   ███████████████████---------------------   47%
-Python                   5:25   ████████████----------------------------   30%
-JSON                     1:17   ██--------------------------------------    7%
-PHP                      1:02   ██--------------------------------------    5%
-Markdown                 0:30   █---------------------------------------    2%
-BibTeX                   0:28   █---------------------------------------    2%
+Tex                      8:28   ███████████████████---------------------   47%
+Python                   5:11   ███████████-----------------------------   29%
+PHP                      1:38   ███-------------------------------------    9%
+Json                     1:11   ██--------------------------------------    6%
+Bibtex                   0:28   █---------------------------------------    2%
+Markdown                 0:22   ----------------------------------------    2%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -92,5 +92,5 @@ BibTeX                   0:28   █---------------------------------------    2%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Friday, 13 June 06:30 CEST</p>
+<p align="center" style="text-align:center;">Last update: Friday, 13 June 18:29 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
