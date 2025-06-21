@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterthesis-praktisch   18:11   █████████████████████████---------------   64%
-masterthesis              6:27   █████████-------------------------------   22%
+masterthesis-praktisch   18:40   ██████████████████████████--------------   65%
+masterthesis              6:26   ████████--------------------------------   22%
 wiha-tool                 1:14   █---------------------------------------    4%
 pokemon-tcgp-tracker      0:58   █---------------------------------------    3%
 </pre>
 
 <pre>
-Python                   18:38   ██████████████████████████--------------   66%
-Tex                       6:05   ████████--------------------------------   21%
+Python                   19:07   ██████████████████████████--------------   66%
+Tex                       6:04   ████████--------------------------------   21%
 Json                      1:18   █---------------------------------------    4%
-Unknown                   0:36   ----------------------------------------    2%
-Docker                    0:20   ----------------------------------------    1%
+Unknown                   0:35   ----------------------------------------    2%
 Bibtex                    0:20   ----------------------------------------    1%
+Docker                    0:17   ----------------------------------------    1%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -92,5 +92,5 @@ Bibtex                    0:20   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Friday, 20 June 18:28 CEST</p>
+<p align="center" style="text-align:center;">Last update: Saturday, 21 June 06:28 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
