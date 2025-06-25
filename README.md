@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterthesis-praktisch   22:16   ████████████████████████----------------   60%
-masterthesis             12:06   █████████████---------------------------   33%
-pokemon-tcgp-tracker      0:58   █---------------------------------------    2%
-Krafttrainingstracker     0:54   ----------------------------------------    2%
+masterthesis-praktisch     22:16   ██████████████████████------------------   56%
+masterthesis               12:23   ████████████----------------------------   31%
+wiha-tool                   2:34   ██--------------------------------------    6%
+pokemon-tcgp-tracker        0:58   ----------------------------------------    2%
 </pre>
 
 <pre>
-Python                   21:52   ███████████████████████-----------------   59%
-Tex                      11:43   ████████████----------------------------   32%
-Json                      1:10   █---------------------------------------    3%
-Unknown                   0:38   ----------------------------------------    1%
-Bibtex                    0:20   ----------------------------------------    0%
-Docker                    0:17   ----------------------------------------    0%
+Python                   1:00:00   ████████████████████████----------------   60%
+Tex                        12:00   ████████████----------------------------   30%
+Json                        1:19   █---------------------------------------    3%
+Unknown                     0:38   ----------------------------------------    1%
+Bibtex                      0:20   ----------------------------------------    0%
+Docker                      0:17   ----------------------------------------    0%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -92,5 +92,5 @@ Docker                    0:17   ----------------------------------------    0%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Wednesday, 25 June 06:32 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday, 25 June 18:31 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
