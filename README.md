@@ -58,15 +58,15 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterthesis-praktisch   21:02   ██████████████████----------------------   46%
-masterthesis             19:39   █████████████████-----------------------   43%
+masterthesis-praktisch   21:02   ██████████████████----------------------   45%
+masterthesis             20:21   █████████████████-----------------------   44%
 wiha-tool                 2:18   ██--------------------------------------    5%
 pokemon-tcgp-tracker      0:58   ----------------------------------------    2%
 </pre>
 
 <pre>
-Python                   22:10   ███████████████████---------------------   49%
-Tex                      19:37   █████████████████-----------------------   43%
+Python                   22:10   ███████████████████---------------------   48%
+Tex                      20:19   █████████████████-----------------------   44%
 JSX                       0:52   ----------------------------------------    1%
 Json                      0:43   ----------------------------------------    1%
 Unknown                   0:36   ----------------------------------------    1%
@@ -92,5 +92,5 @@ Html                      0:27   ----------------------------------------    0%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday,  1 July 18:30 CEST</p>
+<p align="center" style="text-align:center;">Last update: Wednesday,  2 July 06:32 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
