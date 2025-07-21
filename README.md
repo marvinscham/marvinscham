@@ -58,16 +58,16 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-masterthesis             20:30   ███████████████████████-----------------   59%
-masterthesis-praktisch    6:57   ████████--------------------------------   20%
+masterthesis             20:30   █████████████████████████---------------   63%
+masterthesis-praktisch    5:13   ██████----------------------------------   16%
 pokemon-tcgp-tracker      3:50   ████------------------------------------   11%
-wiha-tool                 2:30   ██--------------------------------------    7%
+wiha-tool                 2:30   ███-------------------------------------    7%
 </pre>
 
 <pre>
-Tex                      20:28   ███████████████████████-----------------   59%
-Python                    9:07   ██████████------------------------------   26%
-Html                      2:57   ███-------------------------------------    8%
+Tex                      20:28   █████████████████████████---------------   62%
+Python                    7:21   █████████-------------------------------   22%
+Html                      2:57   ███-------------------------------------    9%
 JSX                       0:54   █---------------------------------------    2%
 PHP                       0:18   ----------------------------------------    0%
 Markdown                  0:14   ----------------------------------------    0%
@@ -92,5 +92,5 @@ Markdown                  0:14   ----------------------------------------    0%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Monday, 21 July 06:47 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday, 21 July 18:31 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
