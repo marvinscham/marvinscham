@@ -59,18 +59,18 @@
 
 <pre>
 masterthesis             20:30   ███████████████████████-----------------   59%
-masterthesis-praktisch    7:26   ████████--------------------------------   21%
+masterthesis-praktisch    6:57   ████████--------------------------------   20%
 pokemon-tcgp-tracker      3:50   ████------------------------------------   11%
 wiha-tool                 2:30   ██--------------------------------------    7%
 </pre>
 
 <pre>
 Tex                      20:28   ███████████████████████-----------------   59%
-Python                    9:36   ███████████-----------------------------   27%
+Python                    9:07   ██████████------------------------------   26%
 Html                      2:57   ███-------------------------------------    8%
 JSX                       0:54   █---------------------------------------    2%
-Markdown                  0:11   ----------------------------------------    0%
-PHP                       0:04   ----------------------------------------    0%
+PHP                       0:18   ----------------------------------------    0%
+Markdown                  0:14   ----------------------------------------    0%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -92,5 +92,5 @@ PHP                       0:04   ----------------------------------------    0%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday, 20 July 18:28 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday, 21 July 06:47 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
