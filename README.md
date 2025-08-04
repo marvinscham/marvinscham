@@ -58,19 +58,19 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-wiha-tool               5:40   ██████████████████████------------------   56%
-pokemon-tcgp-tracker    3:50   ███████████████-------------------------   38%
+wiha-tool               5:40   █████████████████████-------------------   54%
+pokemon-tcgp-tracker    3:50   ██████████████--------------------------   37%
 pdf-annotation-ripper   0:22   █---------------------------------------    3%
-masterychart            0:07   ----------------------------------------    1%
+hochzeit                0:15   ----------------------------------------    2%
 </pre>
 
 <pre>
-Python                  5:24   █████████████████████-------------------   54%
-Html                    2:51   ███████████-----------------------------   28%
+Python                  5:24   █████████████████████-------------------   52%
+Html                    2:51   ███████████-----------------------------   27%
 Markdown                0:28   █---------------------------------------    4%
 JSX                     0:27   █---------------------------------------    4%
 Json                    0:23   █---------------------------------------    3%
-TOML                    0:06   ----------------------------------------    1%
+PHP                     0:20   █---------------------------------------    3%
 </pre>
 
 <h2>📓 Latest blog posts</h2>
@@ -92,5 +92,5 @@ TOML                    0:06   ----------------------------------------    1%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday,  3 August 18:29 CEST</p>
+<p align="center" style="text-align:center;">Last update: Monday,  4 August 06:59 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
