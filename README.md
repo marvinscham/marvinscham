@@ -58,14 +58,14 @@
 <h2>📊 30-day breakdown</h2>
 
 <pre>
-winterhalter-hmi        15:36   ████████████████████████████------------   70%
+winterhalter-hmi        15:36   ████████████████████████████------------   71%
 wiha-tool                5:44   ██████████------------------------------   26%
 pdf-annotation-ripper    0:22   ----------------------------------------    1%
-pokemon-tcgp-tracker     0:07   ----------------------------------------    0%
+framework                0:05   ----------------------------------------    0%
 </pre>
 
 <pre>
-C++                     11:11   ████████████████████--------------------   50%
+C++                     11:11   ████████████████████--------------------   51%
 Python                   4:19   ███████---------------------------------   19%
 Bash                     1:13   ██--------------------------------------    5%
 Json                     0:58   █---------------------------------------    4%
@@ -92,5 +92,5 @@ Docker                   0:48   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Saturday,  9 August 06:32 CEST</p>
+<p align="center" style="text-align:center;">Last update: Saturday,  9 August 18:28 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
