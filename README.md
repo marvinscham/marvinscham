@@ -57,12 +57,7 @@
 </table>
 <h2>📊 30-day breakdown</h2>
 
-<pre>
-winterhalter-hmi        21:39   █████████████████████████████-----------   74%
-wiha-tool                5:44   ███████---------------------------------   19%
-rso-auth                 0:51   █---------------------------------------    2%
-pdf-annotation-ripper    0:22   ----------------------------------------    1%
-</pre>
+
 
 <pre>
 C++                     16:27   ██████████████████████------------------   56%
@@ -92,5 +87,5 @@ Prolog                   0:54   █---------------------------------------    3%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Saturday, 16 August 06:29 CEST</p>
+<p align="center" style="text-align:center;">Last update: Saturday, 16 August 18:26 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
