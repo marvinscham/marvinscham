@@ -1,8 +1,8 @@
 <h1 align="center" style="text-align:center;">Welcome! <img height="28" style="height:1em;display:inline-block;" src="https://raw.githubusercontent.com/marvinscham/marvinscham/main/resources/wave.gif"></h1>
-<p align="center" style="text-align:center;">I'm Marvin – M.Sc. student, fullstack developer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>Located in Baden-Württemberg, Germany <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/de.png">.</p>
+<p align="center" style="text-align:center;">I'm Marvin – Software engineer and creator of <a href="https://masterychart.com">Mastery Chart</a>.<br>Located in Baden-Württemberg, Germany <img height="16" style="height:1em;display:inline-block;" src="https://marvinscham.de/assets/img/lang/de.png">.</p>
 {# Derived from https://github.com/thmsgbrt/thmsgbrt #}
 
-<h2>🛠 Tools I use</h2>
+<h2>🛠 Things I use</h2>
 <p>
 {% for item in technologies -%}
 <img alt="{{ item['name'] }}" style="display:inline-block;" src="https://img.shields.io/badge/-{{ item["name"] | replace(" ", "_") }}-{{ item['color'] | replace("#", "") }}?style=flat-square&logo={{ item['logo'] or item['name'] | replace(" ", "_") }}&logoColor=white" />
@@ -26,7 +26,7 @@
 </table>
 
 {%- if waka_stats|length > 1 %}
-<h2>📊 30-day breakdown</h2>
+<h2>📊 30-day coding activity</h2>
 
 {{ waka_stats }}
 {% endif %}

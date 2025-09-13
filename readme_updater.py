@@ -41,16 +41,10 @@ def calc_darkness_bias(obj, threshold):
 
 
 def seconds_to_string(seconds):
-    days = seconds // 86400
-    remaining_seconds = seconds % 86400
-    hours = remaining_seconds // 3600
-    remaining_minutes = (remaining_seconds % 3600) // 60
+    hours = seconds // 3600
+    remaining_minutes = (seconds % 3600) // 60
 
-    time_string = ""
-    if days > 0:
-        time_string += f"{days}:{hours:02}"
-    else:
-        time_string += f"{hours}"
+    time_string = f"{hours}"
     time_string += f":{remaining_minutes:02}"
 
     return time_string
@@ -71,7 +65,7 @@ with open(os.path.join(resource_dir, "socials.json")) as f:
     socials = json.load(f)
 
 # Sort to build rainbow
-hue_shift = 0.35
+hue_shift = 0.8
 darkness_bias = 0.2
 
 technologies = sorted(
@@ -81,8 +75,10 @@ technologies = sorted(
 
 blog_entries = {}
 try:
+    ghost_base_url = os.getenv("GHOST_URL").rstrip("/")
+    ghost_api_key = os.getenv("GHOST_API_KEY")
     response = requests.get(
-        f"{os.getenv("GHOST_URL")}/ghost/api/content/posts/?key={os.getenv("GHOST_KEY")}"
+        f"{ghost_base_url}/ghost/api/content/posts/?key={ghost_api_key}"
     )
     blog_entries = response.json()["posts"][:3]
 except Exception as e:
@@ -95,8 +91,9 @@ try:
     waka_token = base64.b64encode(os.getenv("WAKAPI_KEY").encode("ascii")).decode(
         "ascii"
     )
+    wakapi_base_url = os.getenv("WAKAPI_URL").rstrip("/")
     response = requests.get(
-        f"{os.getenv("WAKAPI_URL")}/api/summary?interval=30_days",
+        f"{wakapi_base_url}/api/summary?interval=30_days",
         headers={"Authorization": f"Basic {waka_token}"},
     )
     waka_info = response.json()
@@ -106,17 +103,19 @@ try:
     project_list = waka_info["projects"][:4]
     lang_list = waka_info["languages"][:6]
 
-    max_name_len = max(len(entry["key"]) for entry in project_list)
+    # max_name_len = max(len(entry["key"]) for entry in project_list)
     max_lang_len = max(len(entry["key"]) for entry in lang_list)
-    max_key_len = max(max_name_len, max_lang_len)
+    # max_key_len = max(max_name_len, max_lang_len)
+    max_key_len = max_lang_len
 
-    max_proj_time_len = max(
-        len(seconds_to_string(entry["total"])) for entry in project_list
-    )
+    # max_proj_time_len = max(
+    #     len(seconds_to_string(entry["total"])) for entry in project_list
+    # )
     max_lang_time_len = max(
         len(seconds_to_string(entry["total"])) for entry in lang_list
     )
-    max_total_len = max(max_proj_time_len, max_lang_time_len)
+    # max_total_len = max(max_proj_time_len, max_lang_time_len)
+    max_total_len = max_lang_time_len
 
     # waka_projects += "<pre>\n"
     # for project in project_list:
@@ -135,15 +134,18 @@ try:
     # waka_projects += "</pre>"
 
     waka_langs += "<pre>\n"
+    waka_langs += f"{'Lang':<{max_key_len}}   "
+    waka_langs += f"{'hh:mm':>{max_total_len}}   \n"
     for lang in lang_list:
         filled_length = int((lang["total"] / total_duration) * MAX_BAR_LENGTH)
         progress_bar = BAR_CHAR * filled_length + EMPTY_BAR_CHAR * (
             MAX_BAR_LENGTH - filled_length
         )
         percentage_str = str(int((lang["total"] / total_duration * 100))) + "%"
+        time_string = seconds_to_string(lang["total"])
 
         waka_langs += f"{lang['key']:<{max_key_len}}   "
-        waka_langs += f"{seconds_to_string(lang["total"]):>{max_total_len}}   "
+        waka_langs += f"{time_string:>{max_total_len}}   "
         waka_langs += f"{progress_bar}   "
         waka_langs += f"{percentage_str:>3}\n"
     waka_langs += "</pre>"

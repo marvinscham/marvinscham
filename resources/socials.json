@@ -3,24 +3,24 @@
     "name": "Homepage",
     "url": "https://marvinscham.de",
     "color": "#0d254c",
-    "logo": "googlechrome"
+    "logo": ""
   },
   {
     "name": "GitHub",
     "url": "https://github.vom/marvinscham",
     "color": "#181717",
-    "logo": "github"
+    "logo": ""
   },
   {
     "name": "LinkedIn",
     "url": "https://www.linkedin.com/in/marvin-scham-58576216b/",
     "color": "#0A66C2",
-    "logo": "linkedin"
+    "logo": ""
   },
   {
     "name": "Duolingo",
     "url": "https://duolingo.com/profile/marvinscham",
     "color": "#58CC02",
-    "logo": "duolingo"
+    "logo": ""
   }
 ]
