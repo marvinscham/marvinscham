@@ -69,11 +69,11 @@
 
 <pre>
 Lang       hh:mm   
-Tex        15:57   ██████████████--------------------------   35%
-Python     11:55   ██████████------------------------------   26%
-Markdown    4:51   ████------------------------------------   10%
-Json        2:58   ██--------------------------------------    6%
-Unknown     2:28   ██--------------------------------------    5%
+Tex        16:02   ██████████████--------------------------   36%
+Python     11:55   ██████████------------------------------   27%
+Markdown    4:54   ████------------------------------------   11%
+Unknown     2:18   ██--------------------------------------    5%
+Json        2:06   █---------------------------------------    4%
 C++         1:49   █---------------------------------------    4%
 </pre>
 
@@ -89,5 +89,5 @@ C++         1:49   █---------------------------------------    4%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Sunday,  8 March 06:10 CET</p>
+<p align="center" style="text-align:center;">Last update: Sunday,  8 March 17:34 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
