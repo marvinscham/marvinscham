@@ -5,7 +5,7 @@
 <h2>🛠 Things I use</h2>
 <p>
 {% for item in technologies -%}
-<img alt="{{ item['name'] }}" style="display:inline-block;" src="https://img.shields.io/badge/-{{ item["name"] | replace(" ", "_") }}-{{ item['color'] | replace("#", "") }}?style=flat-square&logo={{ item['logo'] or item['name'] | replace(" ", "_") }}&logoColor=white" />
+<img alt="{{ item['name'] }}" style="display:inline-block;" src="https://img.shields.io/badge/-{{ item["name"] | replace(" ", "_") }}-{{ item['color'] | replace("#", "") }}?style=flat-square&logo={{ item['logo'] | replace(" ", "_") }}&logoColor=white" />
 {% endfor -%}
 </p>
 

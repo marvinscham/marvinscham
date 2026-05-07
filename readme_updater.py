@@ -57,8 +57,8 @@ env = Environment(loader=FileSystemLoader(resource_dir))
 template = env.get_template("README.md.jinja")
 
 # Load metadata files
-with open(os.path.join(resource_dir, "technologies.json")) as f:
-    technologies = json.load(f)
+with open(os.path.join(resource_dir, "technologies.jsonl")) as f:
+    technologies = [json.loads(line) for line in f if line.strip()]
 with open(os.path.join(resource_dir, "projects.json")) as f:
     projects = json.load(f)
 with open(os.path.join(resource_dir, "socials.json")) as f:
