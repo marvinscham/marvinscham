@@ -71,6 +71,20 @@
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/marvinscham/bibtex-oss?style=flat-square&labelColor=343b41"/></td>
     </tr></tbody>
 </table>
+<h2>📊 30-day coding activity</h2>
+
+
+
+<pre>
+Lang       hh:mm   
+Unknown    12:43   █████████-------------------------------   23%
+C++         6:56   █████-----------------------------------   12%
+PHP         6:39   ████------------------------------------   12%
+YAML        6:10   ████------------------------------------   11%
+Json        4:42   ███-------------------------------------    8%
+Markdown    4:41   ███-------------------------------------    8%
+</pre>
+
 
 <h2>👥 Social</h2>
 
@@ -82,5 +96,5 @@
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Thursday,  7 May 22:15 CEST</p>
+<p align="center" style="text-align:center;">Last update: Friday,  8 May 08:00 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
