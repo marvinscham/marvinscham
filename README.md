@@ -73,17 +73,9 @@
 </table>
 <h2>📊 30-day coding activity</h2>
 
-
-
-<pre>
-Lang       hh:mm   
-Unknown    3:37   ███████---------------------------------   17%
-Markdown   3:34   ███████---------------------------------   17%
-Json       3:01   ██████----------------------------------   15%
-Bash       2:39   █████-----------------------------------   13%
-YAML       2:25   ████------------------------------------   12%
-Cmake      1:58   ███-------------------------------------    9%
-</pre>
+<p align="center">
+  <img src="./resources/wakapi-chart.svg" alt="30-day coding activity by language" width="720" />
+</p>
 
 
 <h2>👥 Social</h2>
@@ -96,5 +88,5 @@ Cmake      1:58   ███-------------------------------------    9%
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday,  6 October 13:06 CEST</p>
+<p align="center" style="text-align:center;">Last update: Tuesday,  6 October 19:50 CEST</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>

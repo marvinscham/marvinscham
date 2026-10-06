@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 import base64
 import datetime
+import html
 import json
+import math
 import os
 
 import matplotlib.colors as mcolors
@@ -11,12 +13,6 @@ from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader
 
 load_dotenv()
-
-# Constants for the progress bar
-MAX_BAR_LENGTH = 40
-BAR_CHAR = "█"
-EMPTY_BAR_CHAR = "-"
-
 
 def hex_to_rgb(hex_color):
     # Helper function to convert hex to RGB
@@ -40,14 +36,79 @@ def calc_darkness_bias(obj, threshold):
         return 0
 
 
-def seconds_to_string(seconds):
-    hours = seconds // 3600
-    remaining_minutes = (seconds % 3600) // 60
+def language_key(name):
+    return "".join(character.lower() for character in name if character.isalnum())
 
-    time_string = f"{hours}"
-    time_string += f":{remaining_minutes:02}"
 
-    return time_string
+def duration_string(seconds):
+    hours, remaining_seconds = divmod(int(seconds), 3600)
+    minutes = remaining_seconds // 60
+    return f"{hours}h {minutes}m"
+
+
+def bubble_chart(languages, language_colors):
+    languages = [language for language in languages if language["total"] >= 10 * 60]
+    if not languages:
+        return ""
+
+    languages.sort(key=lambda language: language["total"], reverse=True)
+    largest_total = languages[0]["total"]
+    for index, language in enumerate(languages):
+        language["radius"] = max(24, 96 * math.sqrt(language["total"] / largest_total))
+        language["color"] = language_colors.get(language_key(language["key"]), "#6b7280")
+
+        angle = index * 2.399963
+        distance = 1.5 * math.sqrt(index) * language["radius"]
+        language["x"] = distance * math.cos(angle)
+        language["y"] = distance * math.sin(angle)
+
+    # deterministic force layout
+    for _ in range(180):
+        for language in languages:
+            language["x"] *= 0.985
+            language["y"] *= 0.985
+        for index, first in enumerate(languages):
+            for second in languages[index + 1 :]:
+                dx = second["x"] - first["x"]
+                dy = second["y"] - first["y"]
+                distance = math.hypot(dx, dy) or 0.001
+                minimum = first["radius"] + second["radius"] + 8
+                if distance < minimum:
+                    push = (minimum - distance) / distance / 2
+                    first["x"] -= dx * push
+                    first["y"] -= dy * push
+                    second["x"] += dx * push
+                    second["y"] += dy * push
+
+    min_x = min(language["x"] - language["radius"] for language in languages)
+    max_x = max(language["x"] + language["radius"] for language in languages)
+    min_y = min(language["y"] - language["radius"] for language in languages)
+    max_y = max(language["y"] + language["radius"] for language in languages)
+    center_x = (min_x + max_x) / 2
+    center_y = (min_y + max_y) / 2
+    size = max(720, math.ceil(2 * max(max_x - center_x, max_y - center_y) + 24))
+    for language in languages:
+        language["x"] += size / 2 - center_x
+        language["y"] += size / 2 - center_y
+
+    bubbles = []
+    for language in languages:
+        radius = language["radius"]
+        text_color = "#ffffff" if mcolors.rgb_to_hsv(hex_to_rgb(language["color"]))[2] < 0.65 else "#111827"
+        name = html.escape(language["key"])
+        time = html.escape(duration_string(language["total"]))
+        color = html.escape(language["color"], quote=True)
+        name_size = min(14, max(8, 1.8 * radius / max(len(language["key"]), 1)))
+        bubbles.append(
+            f'<g><title>{name}: {time}</title>'
+            f'<circle cx="{language["x"]:.1f}" cy="{language["y"]:.1f}" r="{radius:.1f}" fill="{color}"/>'
+            f'<text x="{language["x"]:.1f}" y="{language["y"] - 4:.1f}" text-anchor="middle" '
+            f'font-family="sans-serif" font-size="{name_size:.1f}" font-weight="600" fill="{text_color}">{name}</text>'
+            f'<text x="{language["x"]:.1f}" y="{language["y"] + 16:.1f}" text-anchor="middle" '
+            f'font-family="sans-serif" font-size="12" fill="{text_color}">{time}</text></g>'
+        )
+
+    return f'<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {size} {size}">{"".join(bubbles)}</svg>'
 
 
 resource_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "resources")
@@ -63,6 +124,14 @@ with open(os.path.join(resource_dir, "projects.json")) as f:
     projects = json.load(f)
 with open(os.path.join(resource_dir, "socials.json")) as f:
     socials = json.load(f)
+with open(os.path.join(resource_dir, "language_colors.json")) as f:
+    language_colors = {
+        language_key(name): details["color"]
+        for name, details in json.load(f).items()
+        if details.get("color")
+    }
+for technology in technologies:
+    language_colors.setdefault(language_key(technology["name"]), technology["color"])
 
 # Sort to build rainbow
 hue_shift = 0.8
@@ -85,8 +154,7 @@ except Exception as e:
     print(e)
     pass
 
-waka_projects = ""
-waka_langs = ""
+waka_chart = ""
 try:
     waka_token = base64.b64encode(os.getenv("WAKAPI_KEY").encode("ascii")).decode(
         "ascii"
@@ -98,61 +166,12 @@ try:
     )
     waka_info = response.json()
 
-    total_duration = sum(item["total"] for item in waka_info["machines"])
-
-    project_list = waka_info["projects"][:4]
-    lang_list = waka_info["languages"][:6]
-
-    # max_name_len = max(len(entry["key"]) for entry in project_list)
-    max_lang_len = max(len(entry["key"]) for entry in lang_list)
-    # max_key_len = max(max_name_len, max_lang_len)
-    max_key_len = max_lang_len
-
-    # max_proj_time_len = max(
-    #     len(seconds_to_string(entry["total"])) for entry in project_list
-    # )
-    max_lang_time_len = max(
-        len(seconds_to_string(entry["total"])) for entry in lang_list
-    )
-    # max_total_len = max(max_proj_time_len, max_lang_time_len)
-    max_total_len = max_lang_time_len
-
-    # waka_projects += "<pre>\n"
-    # for project in project_list:
-    #     filled_length = int(
-    #         (project["total"] / total_duration) * MAX_BAR_LENGTH)
-    #     progress_bar = BAR_CHAR * filled_length + \
-    #         EMPTY_BAR_CHAR * (MAX_BAR_LENGTH - filled_length)
-    #     percentage_str = str(
-    #         int((project["total"] / total_duration * 100))) + "%"
-
-    #     waka_projects += f"{project['key']:<{max_key_len}}   "
-    #     waka_projects += f"{seconds_to_string(project["total"]):>{
-    #         max_total_len}}   "
-    #     waka_projects += f"{progress_bar}   "
-    #     waka_projects += f"{percentage_str:>3}\n"
-    # waka_projects += "</pre>"
-
-    waka_langs += "<pre>\n"
-    waka_langs += f"{'Lang':<{max_key_len}}   "
-    waka_langs += f"{'hh:mm':>{max_total_len}}   \n"
-    for lang in lang_list:
-        filled_length = int((lang["total"] / total_duration) * MAX_BAR_LENGTH)
-        progress_bar = BAR_CHAR * filled_length + EMPTY_BAR_CHAR * (
-            MAX_BAR_LENGTH - filled_length
-        )
-        percentage_str = str(int((lang["total"] / total_duration * 100))) + "%"
-        time_string = seconds_to_string(lang["total"])
-
-        waka_langs += f"{lang['key']:<{max_key_len}}   "
-        waka_langs += f"{time_string:>{max_total_len}}   "
-        waka_langs += f"{progress_bar}   "
-        waka_langs += f"{percentage_str:>3}\n"
-    waka_langs += "</pre>"
-
-    waka_stats = waka_projects + "\n\n" + waka_langs
+    waka_chart = bubble_chart(waka_info["languages"], language_colors)
+    if waka_chart:
+        with open(os.path.join(resource_dir, "wakapi-chart.svg"), "w", encoding="utf-8") as f:
+            f.write(waka_chart)
 except Exception as e:
-    waka_stats = ""
+    waka_chart = ""
     print(e)
     pass
 
@@ -182,7 +201,7 @@ data = {
     "technologies": technologies,
     "projects": projects,
     "blog_entries": blog_entries,
-    "waka_stats": waka_stats,
+    "waka_chart": waka_chart,
     "duolingo_stats": duolingo_stats,
     "socials": socials,
     "last_update": last_update,

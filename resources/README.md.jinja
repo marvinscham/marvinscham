@@ -25,10 +25,12 @@
   </tbody>
 </table>
 
-{%- if waka_stats|length > 1 %}
+{%- if waka_chart|length > 1 %}
 <h2>📊 30-day coding activity</h2>
 
-{{ waka_stats }}
+<p align="center">
+  <img src="./resources/wakapi-chart.svg" alt="30-day coding activity by language" width="720" />
+</p>
 {% endif %}
 
 {%- if blog_entries|length > 1 %}
