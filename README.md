@@ -71,12 +71,6 @@
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/marvinscham/bibtex-oss?style=flat-square&labelColor=343b41"/></td>
     </tr></tbody>
 </table>
-<h2>📊 30-day coding activity</h2>
-
-<p align="center">
-  <img src="./resources/wakapi-chart.svg" alt="30-day coding activity by language" width="720" />
-</p>
-
 
 <h2>👥 Social</h2>
 
@@ -88,5 +82,5 @@
 
 <hr>
 
-<p align="center" style="text-align:center;">Last update: Tuesday,  3 November 00:21 CET</p>
+<p align="center" style="text-align:center;">Last update: Tuesday,  3 November 12:43 CET</p>
 <p align="center" style="text-align:center;"><a href="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml"><img src="https://github.com/marvinscham/marvinscham/actions/workflows/metrics.yml/badge.svg" alt="Update README" style="display:inline-block;"></a> <img alt="made with ♥" style="display:inline-block;" src="https://img.shields.io/badge/made_with-%E2%99%A5-663399?style=flat&labelColor=%23343B41"></p>
